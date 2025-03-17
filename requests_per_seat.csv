@@ -1,0 +1,1378 @@
+,,,,,,,
+,,,,,,,
+Grade,Program Code,Program Name,School Name,Requests per seat,Total Requests,Total Assigned,Total Seats
+1,GE,GE: General Education,Alamo ES,0.3,17,63,65
+1,SA,SA: SDC - Extensive Services Autism Focus,Alamo ES,0.0,0,4,4
+1,GE,GE: General Education,Alvarado ES,0.5,20,42,42
+1,MS,MS: SDC - Extensive Services,Alvarado ES,0.0,0,2,3
+1,SE,SE: Spanish Immersion (Non-Native),Alvarado ES,1.0,18,18,18
+1,SN,SN: Spanish Immersion (Spanish Speakers),Alvarado ES,0.3,8,26,26
+1,AF,AF: SDC - Mild/Mod Autism Focus,Argonne ES,0.0,0,3,3
+1,GE,GE: General Education,Argonne ES,0.3,16,58,64
+1,FB,FB: Filipino FLES,Carmichael (Bessie) K-8,0.1,2,22,22
+1,GE,GE: General Education,Carmichael (Bessie) K-8,0.0,1,41,44
+1,GE,GE: General Education,Harte (Bret) ES,0.1,3,22,22
+1,SE,SE: Spanish Immersion (Non-Native),Harte (Bret) ES,0.3,1,4,4
+1,SN,SN: Spanish Immersion (Spanish Speakers),Harte (Bret) ES,0.1,1,18,18
+1,GE,GE: General Education,Bryant ES,0.0,1,18,22
+1,SB,SB: Spanish Biliteracy,Bryant ES,0.1,3,22,22
+1,GE,GE: General Education,Clarendon ES,0.6,26,42,42
+1,JB,JB: Japanese Bilingual Bicultural Prgram,Clarendon ES,0.2,10,44,41
+1,MM,MM: SDC - Mild to Moderate,Clarendon ES,0.5,1,3,2
+1,GE,GE: General Education,Lilienthal (Claire) K-8,0.6,35,65,63
+1,KE,KE: Korean Immersion (Non-Native),Lilienthal (Claire) K-8,1.0,9,9,9
+1,KN,KN: Korean Immersion (Korean Speakers),Lilienthal (Claire) K-8,0.2,2,13,13
+1,GE,GE: General Education,Cleveland ES,0.0,1,17,22
+1,SB,SB: Spanish Biliteracy,Cleveland ES,0.0,0,38,44
+1,CE,CE: Cantonese Immersion (All English),Yu (Alice Fong) K-8,0.5,23,44,44
+1,CT,CT: Cantonese Immersion (All others),Yu (Alice Fong) K-8,1.3,28,24,22
+1,GE,GE: General Education,Sloat (Commodore) ES,0.3,22,66,66
+1,CB,CB: Cantonese Biliteracy,Lau (Gordon J) ES,0.0,2,61,66
+1,GE,GE: General Education,Lau (Gordon J) ES,0.1,6,44,44
+1,GE,GE: General Education,SF Community K-8,0.2,5,30,33
+1,GE,GE: General Education,Webster (Daniel) ES,0.2,4,21,22
+1,SE,SE: Spanish Immersion (Non-Native),Webster (Daniel) ES,0.1,3,21,22
+1,SN,SN: Spanish Immersion (Spanish Speakers),Webster (Daniel) ES,0.1,2,19,22
+1,GE,GE: General Education,Milk (Harvey) Civil Right ES,0.2,7,31,44
+1,GE,GE: General Education,Drew (Dr Charles) College Preparatory Academy ES,0.0,0,34,44
+1,CE,CE: Cantonese Immersion (All English),Chinese Immersion School at DeAvila ES,0.5,14,27,27
+1,CN,CN: Cantonese Immersion (Cantonese Speakers),Chinese Immersion School at DeAvila ES,0.1,4,39,39
+1,AF,AF: SDC - Mild/Mod Autism Focus,Taylor (Edward R) ES,0.0,0,4,4
+1,CB,CB: Cantonese Biliteracy,Taylor (Edward R) ES,0.0,1,24,22
+1,GE,GE: General Education,Taylor (Edward R) ES,0.1,4,42,42
+1,SB,SB: Spanish Biliteracy,Taylor (Edward R) ES,0.1,2,22,22
+1,AF,AF: SDC - Mild/Mod Autism Focus,El Dorado ES,0.0,0,5,5
+1,GE,GE: General Education,El Dorado ES,0.0,1,22,21
+1,GE,GE: General Education,Cobb (Dr William L) ES,0.3,6,22,22
+1,MS,MS: SDC - Extensive Services,Huerta (Dolores) ES,0.0,0,5,5
+1,SE,SE: Spanish Immersion (Non-Native),Huerta (Dolores) ES,0.4,10,27,27
+1,SN,SN: Spanish Immersion (Spanish Speakers),Huerta (Dolores) ES,0.1,5,38,37
+1,GE,GE: General Education,Feinstein (Dianne) ES,0.2,12,66,66
+1,SA,SA: SDC - Extensive Services Autism Focus,Feinstein (Dianne) ES,0.0,0,0,4
+1,GE,GE: General Education,Key (Francis Scott) ES,0.3,24,85,84
+1,MS,MS: SDC - Extensive Services,Key (Francis Scott) ES,0.0,0,3,2
+1,GE,GE: General Education,McCoppin (Frank) ES,0.3,14,41,44
+1,AF,AF: SDC - Mild/Mod Autism Focus,Garfield ES,0.0,0,4,4
+1,CE,CE: Cantonese Immersion (All English),Garfield ES,0.0,0,11,11
+1,CN,CN: Cantonese Immersion (Cantonese Speakers),Garfield ES,0.0,0,4,11
+1,GE,GE: General Education,Garfield ES,0.2,5,12,21
+1,GE,GE: General Education,Peabody (George) ES,0.5,22,42,42
+1,MM,MM: SDC - Mild to Moderate,Peabody (George) ES,0.0,0,6,6
+1,GE,GE: General Education,Glen Park ES,0.1,6,42,42
+1,SA,SA: SDC - Extensive Services Autism Focus,Glen Park ES,0.5,1,2,2
+1,SB,SB: Spanish Biliteracy,Glen Park ES,0.0,1,22,22
+1,GE,GE: General Education,Grattan ES,0.3,21,63,63
+1,SA,SA: SDC - Extensive Services Autism Focus,Grattan ES,0.0,0,2,2
+1,GE,GE: General Education,Guadalupe ES,0.0,0,21,22
+1,SB,SB: Spanish Biliteracy,Guadalupe ES,0.0,0,22,22
+1,GE,GE: General Education,Chavez (Cesar) ES,0.1,3,20,21
+1,SB,SB: Spanish Biliteracy,Chavez (Cesar) ES,0.1,6,44,44
+1,TC,TC: SDC - Total Communication,Chavez (Cesar) ES,0.0,0,4,4
+1,GE,GE: General Education,Hillcrest ES,0.1,2,22,21
+1,MM,MM: SDC - Mild to Moderate,Hillcrest ES,0.0,0,2,2
+1,SB,SB: Spanish Biliteracy,Hillcrest ES,0.1,2,22,22
+1,MM,MM: SDC - Mild to Moderate,Buena Vista Horace Mann K-8,0.0,0,6,6
+1,SE,SE: Spanish Immersion (Non-Native),Buena Vista Horace Mann K-8,0.2,5,24,27
+1,SN,SN: Spanish Immersion (Spanish Speakers),Buena Vista Horace Mann K-8,0.2,8,39,39
+1,GE,GE: General Education,Carver (Dr George W) ES,0.0,0,14,22
+1,CB,CB: Cantonese Biliteracy,Parker (Jean) ES,0.2,1,6,6
+1,GE,GE: General Education,Parker (Jean) ES,0.4,6,5,16
+1,AF,AF: SDC - Mild/Mod Autism Focus,Jefferson ES,0.0,0,2,2
+1,GE,GE: General Education,Jefferson ES,0.3,24,84,84
+1,GE,GE: General Education,Muir (John) ES,0.2,4,13,22
+1,SB,SB: Spanish Biliteracy,Muir (John) ES,0.0,0,21,22
+1,GE,GE: General Education,Serra (Junipero) ES,0.1,2,17,22
+1,SB,SB: Spanish Biliteracy,Serra (Junipero) ES,0.0,0,22,22
+1,AO,AO: SDC - Auditory/Oral,Lafayette ES,0.0,0,2,3
+1,GE,GE: General Education,Lafayette ES,0.2,13,78,84
+1,AF,AF: SDC - Mild/Mod Autism Focus,Lakeshore ES,0.0,0,4,4
+1,GE,GE: General Education,Lakeshore ES,0.1,8,62,63
+1,GE,GE: General Education,Lawton K-8,1.0,60,63,63
+1,MS,MS: SDC - Extensive Services,Lawton K-8,0.0,0,3,3
+1,GE,GE: General Education,Flynn (Leonard R) ES,0.1,2,16,22
+1,SE,SE: Spanish Immersion (Non-Native),Flynn (Leonard R) ES,0.1,2,18,19
+1,SN,SN: Spanish Immersion (Spanish Speakers),Flynn (Leonard R) ES,0.2,4,26,24
+1,FB,FB: Filipino FLES,Longfellow ES,0.1,2,19,22
+1,GE,GE: General Education,Longfellow ES,0.1,4,26,42
+1,MM,MM: SDC - Mild to Moderate,Longfellow ES,0.0,0,5,5
+1,SB,SB: Spanish Biliteracy,Longfellow ES,0.0,1,20,22
+1,SE,SE: Spanish Immersion (Non-Native),Marshall ES,0.1,2,15,15
+1,SN,SN: Spanish Immersion (Spanish Speakers),Marshall ES,0.1,4,28,28
+1,AF,AF: SDC - Mild/Mod Autism Focus,McKinley ES,0.0,0,4,4
+1,GE,GE: General Education,McKinley ES,0.3,13,40,42
+1,AF,AF: SDC - Mild/Mod Autism Focus,Miraloma ES,0.0,0,2,2
+1,GE,GE: General Education,Miraloma ES,0.2,10,59,63
+1,CB,CB: Cantonese Biliteracy,Moscone (George R) ES,0.0,1,12,22
+1,GE,GE: General Education,Moscone (George R) ES,0.1,2,22,22
+1,SB,SB: Spanish Biliteracy,Moscone (George R) ES,0.1,2,22,22
+1,NS,NS: Spanish Newcomer,Mission Education Center ES,0.0,0,6,11
+1,CB,CB: Cantonese Biliteracy,Monroe ES,0.1,2,22,22
+1,GE,GE: General Education,Monroe ES,0.1,3,21,22
+1,SE,SE: Spanish Immersion (Non-Native),Monroe ES,0.1,1,17,18
+1,SN,SN: Spanish Immersion (Spanish Speakers),Monroe ES,0.0,0,26,26
+1,GE,GE: General Education,New Traditions ES,0.3,12,44,44
+1,GE,GE: General Education,Ortega (Jose) ES,0.2,8,44,44
+1,ME,ME: Mandarin Immersion (Non-Native),Ortega (Jose) ES,1.2,11,9,9
+1,MN,MN: Mandarin Immersion (Mandarin Speakers),Ortega (Jose) ES,0.2,3,13,13
+1,GE,GE: General Education,Sunset ES,0.9,58,63,63
+1,SA,SA: SDC - Extensive Services Autism Focus,Sunset ES,0.0,0,3,3
+1,GE,GE: General Education,Revere (Paul) K-8,0.0,1,15,21
+1,MM,MM: SDC - Mild to Moderate,Revere (Paul) K-8,0.0,0,5,5
+1,SE,SE: Spanish Immersion (Non-Native),Revere (Paul) K-8,0.1,1,10,10
+1,SN,SN: Spanish Immersion (Spanish Speakers),Revere (Paul) K-8,0.1,2,22,22
+1,GE,GE: General Education,Stevenson (Robert Louis) ES,0.4,28,64,64
+1,MM,MM: SDC - Mild to Moderate,Stevenson (Robert Louis) ES,0.0,0,4,4
+1,AF,AF: SDC - Mild/Mod Autism Focus,Parks (Rosa) ES,0.0,0,2,3
+1,GE,GE: General Education,Parks (Rosa) ES,0.1,3,21,21
+1,JB,JB: Japanese Bilingual Bicultural Prgram,Parks (Rosa) ES,0.1,3,22,22
+1,GE,GE: General Education,Redding ES,0.0,0,33,44
+1,GE,GE: General Education,Rooftop K-8,0.4,25,63,66
+1,GE,GE: General Education,Wo (Yick) ES,0.2,9,40,42
+1,SA,SA: SDC - Extensive Services Autism Focus,Wo (Yick) ES,0.0,0,5,5
+1,GE,GE: General Education,SF Public Montessori ES,0.7,16,22,22
+1,GE,GE: General Education,Sanchez ES,0.0,1,15,22
+1,MM,MM: SDC - Mild to Moderate,Sanchez ES,0.0,0,0,2
+1,SB,SB: Spanish Biliteracy,Sanchez ES,0.1,3,22,22
+1,GE,GE: General Education,Sheridan ES,0.0,2,33,44
+1,AF,AF: SDC - Mild/Mod Autism Focus,Sherman ES,0.0,0,4,4
+1,GE,GE: General Education,Sherman ES,0.2,10,46,42
+1,GE,GE: General Education,Malcolm X Academy ES,0.0,0,18,22
+1,GE,GE: General Education,Spring Valley Science ES,0.1,3,17,22
+1,MM,MM: SDC - Mild to Moderate,Spring Valley Science ES,0.0,0,0,3
+1,GE,GE: General Education,King (Thomas Starr) ES,0.0,1,8,22
+1,ME,ME: Mandarin Immersion (Non-Native),King (Thomas Starr) ES,0.2,4,19,19
+1,MN,MN: Mandarin Immersion (Mandarin Speakers),King (Thomas Starr) ES,0.0,0,23,23
+1,SA,SA: SDC - Extensive Services Autism Focus,King (Thomas Starr) ES,0.0,0,3,4
+1,GE,GE: General Education,Sunnyside ES,0.1,9,63,63
+1,MS,MS: SDC - Extensive Services,Sunnyside ES,0.0,0,3,3
+1,CB,CB: Cantonese Biliteracy,Sutro ES,0.0,0,17,22
+1,GE,GE: General Education,Sutro ES,0.5,10,11,22
+1,AF,AF: SDC - Mild/Mod Autism Focus,Tenderloin Community ES,0.0,0,2,3
+1,GE,GE: General Education,Tenderloin Community ES,0.0,0,41,42
+1,CB,CB: Cantonese Biliteracy,Ulloa ES,0.3,6,22,22
+1,GE,GE: General Education,Ulloa ES,0.4,27,66,66
+1,CB,CB: Cantonese Biliteracy,Visitacion Valley ES,0.0,0,9,22
+1,GE,GE: General Education,Visitacion Valley ES,0.0,1,25,22
+1,GE,GE: General Education,Chin (John Yehall) ES,0.1,4,31,44
+1,CE,CE: Cantonese Immersion (All English),West Portal ES,1.1,15,14,14
+1,CN,CN: Cantonese Immersion (Cantonese Speakers),West Portal ES,0.2,4,19,19
+1,GE,GE: General Education,West Portal ES,0.5,30,66,66
+10,AF,AF: SDC - Mild/Mod Autism Focus,Lincoln (Abraham) HS,0.7,2,3,3
+10,ED,ED: SDC - SOAR,Lincoln (Abraham) HS,0.0,0,3,3
+10,GE,GE: General Education,Lincoln (Abraham) HS,0.1,68,461,460
+10,MM,MM: SDC - Mild to Moderate,Lincoln (Abraham) HS,0.2,2,9,9
+10,MS,MS: SDC - Extensive Services,Lincoln (Abraham) HS,0.7,2,3,3
+10,NX,NX: Newcomer Program,Lincoln (Abraham) HS,0.0,2,58,60
+10,SA,SA: SDC - Extensive Services Autism Focus,Lincoln (Abraham) HS,0.0,0,4,5
+10,GE,GE: General Education,Balboa HS,0.1,37,300,300
+10,MM,MM: SDC - Mild to Moderate,Balboa HS,0.1,1,7,8
+10,MS,MS: SDC - Extensive Services,Balboa HS,0.1,1,7,8
+10,ED,ED: SDC - SOAR,Galileo HS,0.0,0,3,4
+10,GE,GE: General Education,Galileo HS,0.1,23,390,385
+10,MM,MM: SDC - Mild to Moderate,Galileo HS,0.1,1,8,7
+10,NX,NX: Newcomer Program,Galileo HS,0.0,1,56,100
+10,ED,ED: SDC - SOAR,Washington (George) HS,0.0,0,2,2
+10,GE,GE: General Education,Washington (George) HS,0.1,39,500,500
+10,MM,MM: SDC - Mild to Moderate,Washington (George) HS,0.0,0,1,9
+10,MS,MS: SDC - Extensive Services,Washington (George) HS,0.0,0,14,14
+10,GX,GX: General Education Newcomer,SF International HS,0.0,0,10,10
+10,NC,NC: Chinese Newcomer,SF International HS,0.0,0,0,10
+10,NS,NS: Spanish Newcomer,SF International HS,0.0,0,20,20
+10,NX,NX: Newcomer Program,SF International HS,0.0,0,79,100
+10,GE,GE: General Education,O'Connell (John) HS,0.1,7,121,121
+10,MM,MM: SDC - Mild to Moderate,O'Connell (John) HS,0.0,0,8,10
+9,AF,AF: SDC - Mild/Mod Autism Focus,Lowell HS,-,13,0,0
+10,AF,AF: SDC - Mild/Mod Autism Focus,Lowell HS,2.0,2,1,1
+11,AF,AF: SDC - Mild/Mod Autism Focus,Lowell HS,0.2,1,5,5
+12,AF,AF: SDC - Mild/Mod Autism Focus,Lowell HS,0.0,0,5,5
+13,CA,,Lowell HS,1.1,21,20,20
+10,ED,ED: SDC - SOAR,Mission HS,0.0,0,2,3
+10,GE,GE: General Education,Mission HS,0.1,14,185,200
+10,MM,MM: SDC - Mild to Moderate,Mission HS,0.1,1,6,7
+10,MS,MS: SDC - Extensive Services,Mission HS,0.0,0,3,3
+10,NX,NX: Newcomer Program,Mission HS,0.0,0,97,100
+10,SA,SA: SDC - Extensive Services Autism Focus,Mission HS,0.0,0,1,2
+10,AF,AF: SDC - Mild/Mod Autism Focus,Jordan (June) HS,0.2,1,5,6
+10,GE,GE: General Education,Jordan (June) HS,0.1,6,50,50
+10,MM,MM: SDC - Mild to Moderate,Jordan (June) HS,0.0,0,2,3
+10,GE,GE: General Education,Burton (Phillip and Sala) HS,0.0,7,271,271
+10,MM,MM: SDC - Mild to Moderate,Burton (Phillip and Sala) HS,0.0,0,1,10
+10,MS,MS: SDC - Extensive Services,Burton (Phillip and Sala) HS,0.0,0,2,5
+10,GE,GE: General Education,Wallenberg (Raoul) HS,0.1,15,129,150
+10,MM,MM: SDC - Mild to Moderate,Wallenberg (Raoul) HS,0.0,0,5,2
+10,GE,GE: General Education,Asawa (Ruth) SOTA HS,-,18,171,0
+10,AO,AO: SDC - Auditory/Oral,The Academy - SF @ McAteer HS,0.0,0,1,3
+10,GE,GE: General Education,The Academy - SF @ McAteer HS,0.1,7,49,50
+10,MM,MM: SDC - Mild to Moderate,The Academy - SF @ McAteer HS,0.0,0,0,3
+10,TC,TC: SDC - Total Communication,The Academy - SF @ McAteer HS,0.0,0,2,4
+10,GE,GE: General Education,Marshall (Thurgood) HS,0.1,3,47,50
+10,MM,MM: SDC - Mild to Moderate,Marshall (Thurgood) HS,0.0,0,3,4
+10,NX,NX: Newcomer Program,Marshall (Thurgood) HS,0.0,1,76,100
+11,AF,AF: SDC - Mild/Mod Autism Focus,Lincoln (Abraham) HS,0.3,1,4,4
+11,ED,ED: SDC - SOAR,Lincoln (Abraham) HS,0.0,0,1,3
+11,GE,GE: General Education,Lincoln (Abraham) HS,0.1,46,460,460
+11,MM,MM: SDC - Mild to Moderate,Lincoln (Abraham) HS,0.0,1,11,25
+11,MS,MS: SDC - Extensive Services,Lincoln (Abraham) HS,0.0,0,3,3
+11,NX,NX: Newcomer Program,Lincoln (Abraham) HS,0.0,0,57,50
+11,SA,SA: SDC - Extensive Services Autism Focus,Lincoln (Abraham) HS,0.0,0,0,3
+11,GE,GE: General Education,Balboa HS,0.1,20,300,300
+11,MM,MM: SDC - Mild to Moderate,Balboa HS,0.0,0,9,8
+11,MS,MS: SDC - Extensive Services,Balboa HS,0.0,0,4,4
+11,ED,ED: SDC - SOAR,Galileo HS,0.0,0,0,2
+11,GE,GE: General Education,Galileo HS,0.1,22,375,363
+11,MM,MM: SDC - Mild to Moderate,Galileo HS,0.0,0,3,8
+11,MS,MS: SDC - Extensive Services,Galileo HS,0.0,0,5,5
+11,NX,NX: Newcomer Program,Galileo HS,0.0,0,57,75
+11,ED,ED: SDC - SOAR,Washington (George) HS,0.0,0,7,7
+11,GE,GE: General Education,Washington (George) HS,0.1,32,495,495
+11,MM,MM: SDC - Mild to Moderate,Washington (George) HS,0.0,0,13,14
+11,MS,MS: SDC - Extensive Services,Washington (George) HS,0.0,0,8,8
+11,GX,GX: General Education Newcomer,SF International HS,0.0,0,11,10
+11,NC,NC: Chinese Newcomer,SF International HS,0.0,0,0,5
+11,NS,NS: Spanish Newcomer,SF International HS,0.0,0,22,18
+11,NX,NX: Newcomer Program,SF International HS,0.0,0,84,75
+11,GE,GE: General Education,O'Connell (John) HS,0.0,4,126,123
+11,MM,MM: SDC - Mild to Moderate,O'Connell (John) HS,0.0,0,2,2
+9,GE,GE: General Education,Lowell HS,2.1,"2,080","1,011","1,011"
+10,GE,GE: General Education,Lowell HS,-,0,539,0
+11,GE,GE: General Education,Lowell HS,-,0,643,0
+12,GE,GE: General Education,Lowell HS,-,0,596,0
+9,MM,MM: SDC - Mild to Moderate,Lowell HS,-,24,0,0
+11,ED,ED: SDC - SOAR,Mission HS,0.0,0,5,3
+11,GE,GE: General Education,Mission HS,0.1,9,178,175
+11,MM,MM: SDC - Mild to Moderate,Mission HS,0.1,1,7,7
+11,MS,MS: SDC - Extensive Services,Mission HS,0.0,0,5,6
+11,NX,NX: Newcomer Program,Mission HS,0.0,1,91,85
+11,SA,SA: SDC - Extensive Services Autism Focus,Mission HS,0.0,0,2,2
+11,AF,AF: SDC - Mild/Mod Autism Focus,Jordan (June) HS,0.0,0,0,1
+11,GE,GE: General Education,Jordan (June) HS,0.0,0,44,50
+11,MM,MM: SDC - Mild to Moderate,Jordan (June) HS,0.0,0,0,3
+11,GE,GE: General Education,Burton (Phillip and Sala) HS,0.0,0,262,264
+11,MM,MM: SDC - Mild to Moderate,Burton (Phillip and Sala) HS,0.0,0,5,8
+11,MS,MS: SDC - Extensive Services,Burton (Phillip and Sala) HS,0.0,0,4,4
+11,GE,GE: General Education,Wallenberg (Raoul) HS,0.1,17,130,130
+11,MM,MM: SDC - Mild to Moderate,Wallenberg (Raoul) HS,0.0,0,3,5
+11,GE,GE: General Education,Asawa (Ruth) SOTA HS,-,11,147,0
+12,GE,GE: General Education,Asawa (Ruth) SOTA HS,-,7,182,0
+11,AO,AO: SDC - Auditory/Oral,The Academy - SF @ McAteer HS,0.0,0,1,3
+11,GE,GE: General Education,The Academy - SF @ McAteer HS,0.1,7,45,50
+11,MM,MM: SDC - Mild to Moderate,The Academy - SF @ McAteer HS,0.0,0,1,3
+11,TC,TC: SDC - Total Communication,The Academy - SF @ McAteer HS,0.0,0,0,3
+11,GE,GE: General Education,Marshall (Thurgood) HS,0.0,1,56,50
+11,MM,MM: SDC - Mild to Moderate,Marshall (Thurgood) HS,0.0,0,2,2
+11,NX,NX: Newcomer Program,Marshall (Thurgood) HS,0.0,0,107,90
+12,AF,AF: SDC - Mild/Mod Autism Focus,Lincoln (Abraham) HS,0.0,0,4,4
+12,ED,ED: SDC - SOAR,Lincoln (Abraham) HS,0.0,0,1,2
+12,GE,GE: General Education,Lincoln (Abraham) HS,0.0,21,460,460
+12,MM,MM: SDC - Mild to Moderate,Lincoln (Abraham) HS,0.0,0,20,24
+12,MS,MS: SDC - Extensive Services,Lincoln (Abraham) HS,0.0,0,2,3
+12,NX,NX: Newcomer Program,Lincoln (Abraham) HS,0.0,0,24,25
+12,SA,SA: SDC - Extensive Services Autism Focus,Lincoln (Abraham) HS,0.0,0,4,4
+12,GE,GE: General Education,Balboa HS,0.1,15,291,300
+12,MM,MM: SDC - Mild to Moderate,Balboa HS,0.0,0,11,11
+12,MS,MS: SDC - Extensive Services,Balboa HS,0.0,0,6,6
+12,ED,ED: SDC - SOAR,Galileo HS,0.0,0,2,3
+12,GE,GE: General Education,Galileo HS,0.0,13,374,367
+12,MM,MM: SDC - Mild to Moderate,Galileo HS,0.0,0,9,10
+12,MS,MS: SDC - Extensive Services,Galileo HS,0.0,0,3,3
+12,NX,NX: Newcomer Program,Galileo HS,0.0,0,29,50
+12,ED,ED: SDC - SOAR,Washington (George) HS,0.0,0,1,1
+12,GE,GE: General Education,Washington (George) HS,0.0,17,490,495
+12,MM,MM: SDC - Mild to Moderate,Washington (George) HS,0.1,1,16,16
+12,MS,MS: SDC - Extensive Services,Washington (George) HS,0.0,0,10,10
+12,GX,GX: General Education Newcomer,SF International HS,0.0,0,35,5
+12,NC,NC: Chinese Newcomer,SF International HS,0.0,0,4,5
+12,NS,NS: Spanish Newcomer,SF International HS,0.0,0,4,5
+12,NX,NX: Newcomer Program,SF International HS,0.0,1,77,100
+12,GE,GE: General Education,O'Connell (John) HS,0.0,4,94,106
+12,MM,MM: SDC - Mild to Moderate,O'Connell (John) HS,0.0,0,6,7
+10,MM,MM: SDC - Mild to Moderate,Lowell HS,0.2,1,4,5
+11,MM,MM: SDC - Mild to Moderate,Lowell HS,0.0,0,11,9
+12,MM,MM: SDC - Mild to Moderate,Lowell HS,0.0,0,8,8
+9,MS,MS: SDC - Extensive Services,Lowell HS,2.3,7,3,3
+10,MS,MS: SDC - Extensive Services,Lowell HS,1.0,1,1,1
+12,ED,ED: SDC - SOAR,Mission HS,0.0,0,2,3
+12,GE,GE: General Education,Mission HS,0.1,10,182,175
+12,MM,MM: SDC - Mild to Moderate,Mission HS,0.1,1,11,10
+12,MS,MS: SDC - Extensive Services,Mission HS,0.0,0,5,5
+12,NX,NX: Newcomer Program,Mission HS,0.0,0,47,60
+12,SA,SA: SDC - Extensive Services Autism Focus,Mission HS,0.0,0,4,4
+12,AF,AF: SDC - Mild/Mod Autism Focus,Jordan (June) HS,0.0,0,1,1
+12,GE,GE: General Education,Jordan (June) HS,0.1,3,55,50
+12,MM,MM: SDC - Mild to Moderate,Jordan (June) HS,0.0,0,2,3
+12,GE,GE: General Education,Burton (Phillip and Sala) HS,0.0,4,235,242
+12,MM,MM: SDC - Mild to Moderate,Burton (Phillip and Sala) HS,0.0,0,4,8
+12,MS,MS: SDC - Extensive Services,Burton (Phillip and Sala) HS,0.0,0,5,5
+12,GE,GE: General Education,Wallenberg (Raoul) HS,0.1,10,130,130
+9,GE,GE: General Education,Asawa (Ruth) SOTA HS,7.6,"1,330",176,176
+10,MM,MM: SDC - Mild to Moderate,Asawa (Ruth) SOTA HS,0.0,0,3,3
+12,AO,AO: SDC - Auditory/Oral,The Academy - SF @ McAteer HS,0.0,0,2,3
+12,GE,GE: General Education,The Academy - SF @ McAteer HS,0.2,8,56,50
+12,MM,MM: SDC - Mild to Moderate,The Academy - SF @ McAteer HS,0.0,0,2,3
+12,TC,TC: SDC - Total Communication,The Academy - SF @ McAteer HS,0.0,0,0,2
+12,ED,ED: SDC - SOAR,Marshall (Thurgood) HS,0.0,0,2,3
+12,GE,GE: General Education,Marshall (Thurgood) HS,0.0,1,59,50
+12,MM,MM: SDC - Mild to Moderate,Marshall (Thurgood) HS,0.0,0,1,2
+12,NX,NX: Newcomer Program,Marshall (Thurgood) HS,0.0,0,50,60
+13,CA,,Balboa HS,1.2,23,20,20
+13,CA,,Access SFUSD: Bay Street,0.5,9,20,20
+13,CA,,Access SFUSD: The Arc,0.9,18,20,20
+13,CA,,Galileo HS,0.5,5,5,10
+13,CA,,SF International HS,0.5,5,9,10
+13,CA,,O'Connell (John) HS,1.0,10,10,10
+11,MS,MS: SDC - Extensive Services,Lowell HS,0.0,0,3,3
+13,CA,,Mission HS,0.7,14,20,20
+13,CA,,Burton (Phillip and Sala) HS,0.3,9,20,30
+13,CA,,Wallenberg (Raoul) HS,0.6,11,19,20
+11,MM,MM: SDC - Mild to Moderate,Asawa (Ruth) SOTA HS,0.0,0,4,4
+13,CA,,Marshall (Thurgood) HS,0.3,5,11,20
+2,GE,GE: General Education,Alamo ES,0.1,8,65,65
+2,SA,SA: SDC - Extensive Services Autism Focus,Alamo ES,0.0,0,2,2
+2,GE,GE: General Education,Alvarado ES,0.5,22,42,42
+2,MS,MS: SDC - Extensive Services,Alvarado ES,0.0,0,3,3
+2,SN,SN: Spanish Immersion (Spanish Speakers),Alvarado ES,0.1,6,44,44
+2,AF,AF: SDC - Mild/Mod Autism Focus,Argonne ES,0.2,1,5,5
+2,GE,GE: General Education,Argonne ES,0.2,13,64,64
+2,FB,FB: Filipino FLES,Carmichael (Bessie) K-8,0.0,1,18,22
+2,GE,GE: General Education,Carmichael (Bessie) K-8,0.1,6,36,44
+2,GE,GE: General Education,Harte (Bret) ES,0.1,2,15,22
+2,SN,SN: Spanish Immersion (Spanish Speakers),Harte (Bret) ES,0.0,0,22,22
+2,GE,GE: General Education,Bryant ES,0.0,1,21,22
+2,SB,SB: Spanish Biliteracy,Bryant ES,0.1,2,22,22
+2,NC,NC: Chinese Newcomer,Lee (Edwin and Anita) Newcomer ES,0.0,0,1,5
+2,GE,GE: General Education,Clarendon ES,0.9,37,44,42
+2,JB,JB: Japanese Bilingual Bicultural Prgram,Clarendon ES,0.3,13,44,44
+2,MM,MM: SDC - Mild to Moderate,Clarendon ES,0.0,0,7,7
+2,GE,GE: General Education,Lilienthal (Claire) K-8,0.6,35,63,60
+2,KN,KN: Korean Immersion (Korean Speakers),Lilienthal (Claire) K-8,0.0,0,22,22
+2,GE,GE: General Education,Cleveland ES,0.0,1,10,22
+2,SB,SB: Spanish Biliteracy,Cleveland ES,0.0,1,34,33
+2,CN,CN: Cantonese Immersion (Cantonese Speakers),Yu (Alice Fong) K-8,0.2,12,66,66
+2,GE,GE: General Education,Sloat (Commodore) ES,0.3,17,66,66
+2,CB,CB: Cantonese Biliteracy,Lau (Gordon J) ES,0.0,2,66,66
+2,GE,GE: General Education,Lau (Gordon J) ES,0.1,3,42,42
+2,GE,GE: General Education,SF Community K-8,0.2,5,29,33
+2,GE,GE: General Education,Webster (Daniel) ES,0.3,6,22,22
+2,SN,SN: Spanish Immersion (Spanish Speakers),Webster (Daniel) ES,0.1,3,44,44
+2,GE,GE: General Education,Milk (Harvey) Civil Right ES,0.5,10,22,22
+2,GE,GE: General Education,Drew (Dr Charles) College Preparatory Academy ES,0.1,4,44,44
+2,CN,CN: Cantonese Immersion (Cantonese Speakers),Chinese Immersion School at DeAvila ES,0.1,4,67,66
+2,AF,AF: SDC - Mild/Mod Autism Focus,Taylor (Edward R) ES,0.0,0,6,6
+2,CB,CB: Cantonese Biliteracy,Taylor (Edward R) ES,0.0,0,33,33
+2,GE,GE: General Education,Taylor (Edward R) ES,0.0,1,42,42
+2,SB,SB: Spanish Biliteracy,Taylor (Edward R) ES,0.0,0,21,22
+2,AF,AF: SDC - Mild/Mod Autism Focus,El Dorado ES,0.0,0,4,4
+2,GE,GE: General Education,El Dorado ES,0.0,0,8,7
+2,GE,GE: General Education,Cobb (Dr William L) ES,0.1,3,22,22
+2,MS,MS: SDC - Extensive Services,Huerta (Dolores) ES,0.0,0,1,1
+2,SN,SN: Spanish Immersion (Spanish Speakers),Huerta (Dolores) ES,0.1,9,66,66
+2,GE,GE: General Education,Feinstein (Dianne) ES,0.2,13,64,66
+2,SA,SA: SDC - Extensive Services Autism Focus,Feinstein (Dianne) ES,0.0,0,0,4
+2,GE,GE: General Education,Key (Francis Scott) ES,0.2,13,86,84
+2,MS,MS: SDC - Extensive Services,Key (Francis Scott) ES,0.0,0,2,4
+2,GE,GE: General Education,McCoppin (Frank) ES,0.2,8,44,44
+2,AF,AF: SDC - Mild/Mod Autism Focus,Garfield ES,0.0,0,3,3
+2,CN,CN: Cantonese Immersion (Cantonese Speakers),Garfield ES,0.1,3,19,22
+2,GE,GE: General Education,Garfield ES,0.1,2,19,21
+2,GE,GE: General Education,Peabody (George) ES,0.5,22,42,42
+2,MM,MM: SDC - Mild to Moderate,Peabody (George) ES,0.0,0,2,2
+2,GE,GE: General Education,Glen Park ES,0.2,10,42,42
+2,SA,SA: SDC - Extensive Services Autism Focus,Glen Park ES,0.0,0,5,5
+2,SB,SB: Spanish Biliteracy,Glen Park ES,0.0,1,15,22
+2,GE,GE: General Education,Grattan ES,0.3,22,63,63
+2,SA,SA: SDC - Extensive Services Autism Focus,Grattan ES,0.0,0,3,4
+2,GE,GE: General Education,Guadalupe ES,0.0,1,16,22
+2,SB,SB: Spanish Biliteracy,Guadalupe ES,0.0,0,23,22
+2,GE,GE: General Education,Chavez (Cesar) ES,0.0,0,20,21
+2,SB,SB: Spanish Biliteracy,Chavez (Cesar) ES,0.2,7,44,44
+2,TC,TC: SDC - Total Communication,Chavez (Cesar) ES,0.0,0,0,2
+2,GE,GE: General Education,Hillcrest ES,0.1,3,27,33
+2,MM,MM: SDC - Mild to Moderate,Hillcrest ES,0.0,0,2,2
+2,SB,SB: Spanish Biliteracy,Hillcrest ES,0.0,0,22,22
+2,MM,MM: SDC - Mild to Moderate,Buena Vista Horace Mann K-8,0.0,0,2,2
+2,SN,SN: Spanish Immersion (Spanish Speakers),Buena Vista Horace Mann K-8,0.1,7,66,66
+2,GE,GE: General Education,Carver (Dr George W) ES,0.1,2,16,22
+2,CB,CB: Cantonese Biliteracy,Parker (Jean) ES,0.0,0,10,10
+2,GE,GE: General Education,Parker (Jean) ES,0.0,0,12,12
+2,AF,AF: SDC - Mild/Mod Autism Focus,Jefferson ES,0.2,1,5,5
+2,GE,GE: General Education,Jefferson ES,0.2,19,84,84
+2,GE,GE: General Education,Muir (John) ES,0.0,0,21,22
+2,SB,SB: Spanish Biliteracy,Muir (John) ES,0.0,1,23,22
+2,GE,GE: General Education,Serra (Junipero) ES,0.3,6,22,22
+2,SB,SB: Spanish Biliteracy,Serra (Junipero) ES,0.1,3,22,22
+2,AO,AO: SDC - Auditory/Oral,Lafayette ES,0.0,0,2,3
+2,GE,GE: General Education,Lafayette ES,0.2,13,86,84
+2,AF,AF: SDC - Mild/Mod Autism Focus,Lakeshore ES,0.3,1,3,3
+2,GE,GE: General Education,Lakeshore ES,0.2,10,57,63
+2,GE,GE: General Education,Lawton K-8,0.7,43,65,63
+2,MS,MS: SDC - Extensive Services,Lawton K-8,0.0,0,2,2
+2,GE,GE: General Education,Flynn (Leonard R) ES,0.1,3,22,22
+2,SN,SN: Spanish Immersion (Spanish Speakers),Flynn (Leonard R) ES,0.0,1,43,44
+2,FB,FB: Filipino FLES,Longfellow ES,0.0,1,21,22
+2,GE,GE: General Education,Longfellow ES,0.1,3,22,21
+2,MM,MM: SDC - Mild to Moderate,Longfellow ES,0.0,0,2,2
+2,SB,SB: Spanish Biliteracy,Longfellow ES,0.0,1,21,22
+2,SN,SN: Spanish Immersion (Spanish Speakers),Marshall ES,0.1,3,44,44
+2,AF,AF: SDC - Mild/Mod Autism Focus,McKinley ES,0.0,0,5,5
+2,GE,GE: General Education,McKinley ES,0.4,16,41,41
+2,AF,AF: SDC - Mild/Mod Autism Focus,Miraloma ES,0.0,0,4,4
+2,GE,GE: General Education,Miraloma ES,0.3,16,63,63
+2,CB,CB: Cantonese Biliteracy,Moscone (George R) ES,0.0,0,12,22
+2,GE,GE: General Education,Moscone (George R) ES,0.1,2,22,22
+2,SB,SB: Spanish Biliteracy,Moscone (George R) ES,0.0,0,22,22
+2,NS,NS: Spanish Newcomer,Mission Education Center ES,0.0,0,5,11
+2,CB,CB: Cantonese Biliteracy,Monroe ES,0.1,2,23,22
+2,GE,GE: General Education,Monroe ES,0.3,7,22,22
+2,SN,SN: Spanish Immersion (Spanish Speakers),Monroe ES,0.0,2,44,44
+2,GE,GE: General Education,New Traditions ES,0.3,15,44,44
+2,GE,GE: General Education,Ortega (Jose) ES,0.2,7,44,44
+2,MN,MN: Mandarin Immersion (Mandarin Speakers),Ortega (Jose) ES,0.2,4,23,22
+2,GE,GE: General Education,Sunset ES,0.6,37,64,63
+2,SA,SA: SDC - Extensive Services Autism Focus,Sunset ES,0.0,0,7,7
+2,GE,GE: General Education,Revere (Paul) K-8,0.1,2,18,21
+2,MM,MM: SDC - Mild to Moderate,Revere (Paul) K-8,0.0,0,2,2
+2,SN,SN: Spanish Immersion (Spanish Speakers),Revere (Paul) K-8,0.1,3,32,32
+2,GE,GE: General Education,Stevenson (Robert Louis) ES,0.4,25,64,64
+2,MM,MM: SDC - Mild to Moderate,Stevenson (Robert Louis) ES,0.0,0,5,4
+2,AF,AF: SDC - Mild/Mod Autism Focus,Parks (Rosa) ES,0.0,0,5,6
+2,GE,GE: General Education,Parks (Rosa) ES,0.0,0,19,21
+2,JB,JB: Japanese Bilingual Bicultural Prgram,Parks (Rosa) ES,0.0,1,33,44
+2,GE,GE: General Education,Redding ES,0.0,2,42,44
+2,GE,GE: General Education,Rooftop K-8,0.6,38,66,66
+2,GE,GE: General Education,Wo (Yick) ES,0.1,3,27,27
+2,SA,SA: SDC - Extensive Services Autism Focus,Wo (Yick) ES,0.0,0,2,2
+2,GE,GE: General Education,SF Public Montessori ES,0.3,6,22,22
+2,GE,GE: General Education,Sanchez ES,0.0,1,21,21
+2,MM,MM: SDC - Mild to Moderate,Sanchez ES,0.0,0,4,5
+2,SB,SB: Spanish Biliteracy,Sanchez ES,0.1,3,22,22
+2,GE,GE: General Education,Sheridan ES,0.0,0,31,33
+2,AF,AF: SDC - Mild/Mod Autism Focus,Sherman ES,0.0,0,4,4
+2,GE,GE: General Education,Sherman ES,0.1,4,52,52
+2,GE,GE: General Education,Malcolm X Academy ES,0.0,0,16,22
+2,CB,CB: Cantonese Biliteracy,Spring Valley Science ES,0.0,0,6,8
+2,GE,GE: General Education,Spring Valley Science ES,0.0,0,14,21
+2,MM,MM: SDC - Mild to Moderate,Spring Valley Science ES,0.0,0,2,3
+2,SB,SB: Spanish Biliteracy,Spring Valley Science ES,0.0,0,22,22
+2,GE,GE: General Education,King (Thomas Starr) ES,0.2,2,10,10
+2,MN,MN: Mandarin Immersion (Mandarin Speakers),King (Thomas Starr) ES,0.0,0,44,44
+2,SA,SA: SDC - Extensive Services Autism Focus,King (Thomas Starr) ES,0.0,0,5,4
+2,GE,GE: General Education,Sunnyside ES,0.2,10,63,63
+2,MS,MS: SDC - Extensive Services,Sunnyside ES,0.0,0,3,3
+2,CB,CB: Cantonese Biliteracy,Sutro ES,0.0,0,20,22
+2,GE,GE: General Education,Sutro ES,0.3,7,16,22
+2,AF,AF: SDC - Mild/Mod Autism Focus,Tenderloin Community ES,0.0,0,2,2
+2,GE,GE: General Education,Tenderloin Community ES,0.0,0,42,42
+2,CB,CB: Cantonese Biliteracy,Ulloa ES,0.2,5,22,22
+2,GE,GE: General Education,Ulloa ES,0.4,29,66,66
+2,CB,CB: Cantonese Biliteracy,Visitacion Valley ES,0.0,0,8,11
+2,GE,GE: General Education,Visitacion Valley ES,0.1,3,30,44
+2,CB,CB: Cantonese Biliteracy,Chin (John Yehall) ES,0.0,0,20,22
+2,GE,GE: General Education,Chin (John Yehall) ES,0.0,1,20,22
+2,CN,CN: Cantonese Immersion (Cantonese Speakers),West Portal ES,0.2,5,33,33
+2,GE,GE: General Education,West Portal ES,0.5,31,66,66
+3,GE,GE: General Education,Alamo ES,0.3,16,66,63
+3,SA,SA: SDC - Extensive Services Autism Focus,Alamo ES,0.0,0,3,4
+3,GE,GE: General Education,Alvarado ES,0.5,20,42,42
+3,MS,MS: SDC - Extensive Services,Alvarado ES,0.0,0,2,3
+3,SN,SN: Spanish Immersion (Spanish Speakers),Alvarado ES,0.2,10,44,44
+3,AF,AF: SDC - Mild/Mod Autism Focus,Argonne ES,0.0,0,4,3
+3,GE,GE: General Education,Argonne ES,0.2,15,64,64
+3,FB,FB: Filipino FLES,Carmichael (Bessie) K-8,0.0,0,21,22
+3,GE,GE: General Education,Carmichael (Bessie) K-8,0.1,3,44,44
+3,GE,GE: General Education,Harte (Bret) ES,0.0,1,24,22
+3,SN,SN: Spanish Immersion (Spanish Speakers),Harte (Bret) ES,0.0,1,21,22
+3,GE,GE: General Education,Bryant ES,0.2,5,16,22
+3,SB,SB: Spanish Biliteracy,Bryant ES,0.1,2,21,22
+3,NC,NC: Chinese Newcomer,Lee (Edwin and Anita) Newcomer ES,0.0,0,1,5
+3,GE,GE: General Education,Clarendon ES,0.7,28,42,42
+3,JB,JB: Japanese Bilingual Bicultural Prgram,Clarendon ES,0.2,9,44,44
+3,MM,MM: SDC - Mild to Moderate,Clarendon ES,0.0,0,2,4
+3,GE,GE: General Education,Lilienthal (Claire) K-8,0.5,30,60,58
+3,KN,KN: Korean Immersion (Korean Speakers),Lilienthal (Claire) K-8,0.0,0,19,22
+3,GE,GE: General Education,Cleveland ES,0.0,0,20,22
+3,SB,SB: Spanish Biliteracy,Cleveland ES,0.0,1,35,33
+3,CN,CN: Cantonese Immersion (Cantonese Speakers),Yu (Alice Fong) K-8,0.1,8,66,66
+3,GE,GE: General Education,Sloat (Commodore) ES,0.2,12,67,66
+3,CB,CB: Cantonese Biliteracy,Lau (Gordon J) ES,0.0,1,55,60
+3,GE,GE: General Education,Lau (Gordon J) ES,0.1,3,36,40
+3,GE,GE: General Education,SF Community K-8,0.2,7,33,33
+3,GE,GE: General Education,Webster (Daniel) ES,0.2,4,20,22
+3,SN,SN: Spanish Immersion (Spanish Speakers),Webster (Daniel) ES,0.0,2,43,44
+3,GE,GE: General Education,Milk (Harvey) Civil Right ES,0.1,3,19,22
+3,GE,GE: General Education,Drew (Dr Charles) College Preparatory Academy ES,0.1,2,22,22
+3,CN,CN: Cantonese Immersion (Cantonese Speakers),Chinese Immersion School at DeAvila ES,0.0,1,65,66
+3,AF,AF: SDC - Mild/Mod Autism Focus,Taylor (Edward R) ES,0.0,0,3,4
+3,CB,CB: Cantonese Biliteracy,Taylor (Edward R) ES,0.0,1,29,33
+3,GE,GE: General Education,Taylor (Edward R) ES,0.1,3,44,42
+3,SB,SB: Spanish Biliteracy,Taylor (Edward R) ES,0.0,0,22,22
+3,AF,AF: SDC - Mild/Mod Autism Focus,El Dorado ES,0.0,0,3,3
+3,GE,GE: General Education,El Dorado ES,0.1,1,16,15
+3,GE,GE: General Education,Cobb (Dr William L) ES,0.1,3,22,22
+3,MS,MS: SDC - Extensive Services,Huerta (Dolores) ES,0.0,0,0,4
+3,SN,SN: Spanish Immersion (Spanish Speakers),Huerta (Dolores) ES,0.1,5,65,66
+3,ED,ED: SDC - SOAR,Feinstein (Dianne) ES,0.0,0,1,3
+3,GE,GE: General Education,Feinstein (Dianne) ES,0.1,8,66,66
+3,GE,GE: General Education,Key (Francis Scott) ES,0.1,11,86,84
+3,MS,MS: SDC - Extensive Services,Key (Francis Scott) ES,0.0,0,2,4
+3,GE,GE: General Education,McCoppin (Frank) ES,0.3,12,40,44
+3,AF,AF: SDC - Mild/Mod Autism Focus,Garfield ES,0.0,0,4,5
+3,CN,CN: Cantonese Immersion (Cantonese Speakers),Garfield ES,0.0,0,11,22
+3,GE,GE: General Education,Garfield ES,0.1,3,19,21
+3,GE,GE: General Education,Peabody (George) ES,0.5,21,42,42
+3,MM,MM: SDC - Mild to Moderate,Peabody (George) ES,0.0,0,4,4
+3,GE,GE: General Education,Glen Park ES,0.3,9,33,33
+3,SA,SA: SDC - Extensive Services Autism Focus,Glen Park ES,0.0,0,3,4
+3,SB,SB: Spanish Biliteracy,Glen Park ES,0.2,4,17,22
+3,GE,GE: General Education,Grattan ES,0.4,24,64,63
+3,SA,SA: SDC - Extensive Services Autism Focus,Grattan ES,0.0,0,4,4
+3,GE,GE: General Education,Guadalupe ES,0.0,1,38,44
+3,SB,SB: Spanish Biliteracy,Guadalupe ES,-,1,0,0
+3,GE,GE: General Education,Chavez (Cesar) ES,0.1,2,24,21
+3,SB,SB: Spanish Biliteracy,Chavez (Cesar) ES,0.1,3,43,44
+3,TC,TC: SDC - Total Communication,Chavez (Cesar) ES,0.0,0,3,4
+3,GE,GE: General Education,Hillcrest ES,0.0,1,24,33
+3,MM,MM: SDC - Mild to Moderate,Hillcrest ES,0.0,0,7,7
+3,SB,SB: Spanish Biliteracy,Hillcrest ES,0.0,0,22,22
+3,MM,MM: SDC - Mild to Moderate,Buena Vista Horace Mann K-8,0.0,0,4,4
+3,SN,SN: Spanish Immersion (Spanish Speakers),Buena Vista Horace Mann K-8,0.1,7,66,66
+3,GE,GE: General Education,Carver (Dr George W) ES,0.0,0,17,22
+3,CB,CB: Cantonese Biliteracy,Parker (Jean) ES,0.0,0,6,6
+3,GE,GE: General Education,Parker (Jean) ES,0.2,3,6,16
+3,AF,AF: SDC - Mild/Mod Autism Focus,Jefferson ES,0.0,0,2,2
+3,GE,GE: General Education,Jefferson ES,0.2,20,84,84
+3,GE,GE: General Education,Muir (John) ES,0.2,4,22,22
+3,SB,SB: Spanish Biliteracy,Muir (John) ES,0.0,1,22,22
+3,GE,GE: General Education,Serra (Junipero) ES,0.1,3,22,22
+3,SB,SB: Spanish Biliteracy,Serra (Junipero) ES,0.1,3,22,22
+3,AO,AO: SDC - Auditory/Oral,Lafayette ES,0.0,0,1,4
+3,GE,GE: General Education,Lafayette ES,0.2,17,84,84
+3,AF,AF: SDC - Mild/Mod Autism Focus,Lakeshore ES,0.0,0,6,5
+3,GE,GE: General Education,Lakeshore ES,0.1,5,84,84
+3,GE,GE: General Education,Lawton K-8,0.6,37,64,63
+3,MS,MS: SDC - Extensive Services,Lawton K-8,0.0,0,2,3
+3,ED,ED: SDC - SOAR,Flynn (Leonard R) ES,0.0,0,0,3
+3,GE,GE: General Education,Flynn (Leonard R) ES,0.1,2,18,22
+3,SN,SN: Spanish Immersion (Spanish Speakers),Flynn (Leonard R) ES,0.0,1,42,44
+3,FB,FB: Filipino FLES,Longfellow ES,0.0,0,21,22
+3,GE,GE: General Education,Longfellow ES,0.0,0,25,30
+3,MM,MM: SDC - Mild to Moderate,Longfellow ES,0.3,1,4,4
+3,SB,SB: Spanish Biliteracy,Longfellow ES,0.1,2,22,22
+3,SN,SN: Spanish Immersion (Spanish Speakers),Marshall ES,0.1,5,42,44
+3,AF,AF: SDC - Mild/Mod Autism Focus,McKinley ES,0.3,1,4,4
+3,GE,GE: General Education,McKinley ES,0.2,10,43,42
+3,AF,AF: SDC - Mild/Mod Autism Focus,Miraloma ES,0.0,0,4,4
+3,GE,GE: General Education,Miraloma ES,0.2,10,63,63
+3,CB,CB: Cantonese Biliteracy,Moscone (George R) ES,0.0,0,18,22
+3,GE,GE: General Education,Moscone (George R) ES,0.1,3,21,22
+3,SB,SB: Spanish Biliteracy,Moscone (George R) ES,0.0,1,22,22
+3,NS,NS: Spanish Newcomer,Mission Education Center ES,0.0,0,6,11
+3,CB,CB: Cantonese Biliteracy,Monroe ES,0.0,1,22,22
+3,GE,GE: General Education,Monroe ES,0.6,13,22,22
+3,SN,SN: Spanish Immersion (Spanish Speakers),Monroe ES,0.1,3,44,44
+3,GE,GE: General Education,New Traditions ES,0.3,15,44,44
+3,GE,GE: General Education,Ortega (Jose) ES,0.2,8,44,44
+3,MN,MN: Mandarin Immersion (Mandarin Speakers),Ortega (Jose) ES,0.1,3,22,22
+3,GE,GE: General Education,Sunset ES,0.5,34,66,63
+3,SA,SA: SDC - Extensive Services Autism Focus,Sunset ES,0.3,1,1,3
+3,GE,GE: General Education,Revere (Paul) K-8,0.1,3,21,21
+3,MM,MM: SDC - Mild to Moderate,Revere (Paul) K-8,0.0,0,5,5
+3,SN,SN: Spanish Immersion (Spanish Speakers),Revere (Paul) K-8,0.1,2,33,33
+3,GE,GE: General Education,Stevenson (Robert Louis) ES,0.3,19,64,64
+3,MM,MM: SDC - Mild to Moderate,Stevenson (Robert Louis) ES,0.3,1,4,4
+3,AF,AF: SDC - Mild/Mod Autism Focus,Parks (Rosa) ES,0.0,0,3,6
+3,GE,GE: General Education,Parks (Rosa) ES,0.1,2,21,21
+3,JB,JB: Japanese Bilingual Bicultural Prgram,Parks (Rosa) ES,0.0,1,24,22
+3,GE,GE: General Education,Redding ES,0.1,4,43,44
+3,GE,GE: General Education,Rooftop K-8,0.3,17,66,66
+3,GE,GE: General Education,Wo (Yick) ES,0.1,5,38,38
+3,SA,SA: SDC - Extensive Services Autism Focus,Wo (Yick) ES,0.0,0,2,4
+3,GE,GE: General Education,SF Public Montessori ES,0.4,9,22,22
+3,GE,GE: General Education,Sanchez ES,0.0,1,21,21
+3,MM,MM: SDC - Mild to Moderate,Sanchez ES,0.0,0,1,3
+3,SB,SB: Spanish Biliteracy,Sanchez ES,0.2,4,22,22
+3,GE,GE: General Education,Sheridan ES,0.0,0,31,33
+3,AF,AF: SDC - Mild/Mod Autism Focus,Sherman ES,0.3,1,4,4
+3,GE,GE: General Education,Sherman ES,0.2,9,52,52
+3,GE,GE: General Education,Malcolm X Academy ES,0.0,0,14,22
+3,CB,CB: Cantonese Biliteracy,Spring Valley Science ES,0.0,0,7,8
+3,GE,GE: General Education,Spring Valley Science ES,0.1,2,11,21
+3,MM,MM: SDC - Mild to Moderate,Spring Valley Science ES,0.0,0,5,6
+3,SB,SB: Spanish Biliteracy,Spring Valley Science ES,0.0,0,16,15
+3,GE,GE: General Education,King (Thomas Starr) ES,0.2,2,12,10
+3,MN,MN: Mandarin Immersion (Mandarin Speakers),King (Thomas Starr) ES,0.0,1,38,44
+3,SA,SA: SDC - Extensive Services Autism Focus,King (Thomas Starr) ES,0.0,0,1,3
+3,GE,GE: General Education,Sunnyside ES,0.2,12,63,63
+3,MS,MS: SDC - Extensive Services,Sunnyside ES,0.0,0,2,4
+3,CB,CB: Cantonese Biliteracy,Sutro ES,0.0,0,19,22
+3,GE,GE: General Education,Sutro ES,0.4,8,22,22
+3,GE,GE: General Education,Tenderloin Community ES,0.0,2,44,44
+3,CB,CB: Cantonese Biliteracy,Ulloa ES,0.1,2,22,22
+3,GE,GE: General Education,Ulloa ES,0.3,17,67,66
+3,CB,CB: Cantonese Biliteracy,Visitacion Valley ES,0.0,0,9,11
+3,GE,GE: General Education,Visitacion Valley ES,0.1,3,40,44
+3,GE,GE: General Education,Chin (John Yehall) ES,0.1,6,41,44
+3,CN,CN: Cantonese Immersion (Cantonese Speakers),West Portal ES,0.0,1,34,33
+3,GE,GE: General Education,West Portal ES,0.4,24,66,66
+4,GE,GE: General Education,Alamo ES,0.2,10,64,64
+4,SA,SA: SDC - Extensive Services Autism Focus,Alamo ES,0.0,0,2,3
+4,GE,GE: General Education,Alvarado ES,0.2,10,42,41
+4,MS,MS: SDC - Extensive Services,Alvarado ES,0.0,0,4,4
+4,SN,SN: Spanish Immersion (Spanish Speakers),Alvarado ES,0.1,3,44,44
+4,AF,AF: SDC - Mild/Mod Autism Focus,Argonne ES,0.0,0,5,5
+4,GE,GE: General Education,Argonne ES,0.1,8,58,58
+4,FB,FB: Filipino FLES,Carmichael (Bessie) K-8,0.0,0,17,17
+4,GE,GE: General Education,Carmichael (Bessie) K-8,0.1,4,36,35
+4,GE,GE: General Education,Harte (Bret) ES,0.1,3,21,30
+4,SN,SN: Spanish Immersion (Spanish Speakers),Harte (Bret) ES,0.0,0,22,25
+4,GE,GE: General Education,Bryant ES,0.1,1,19,19
+4,SB,SB: Spanish Biliteracy,Bryant ES,0.0,1,22,22
+4,NC,NC: Chinese Newcomer,Lee (Edwin and Anita) Newcomer ES,0.0,0,4,6
+4,GE,GE: General Education,Clarendon ES,0.4,16,44,44
+4,JB,JB: Japanese Bilingual Bicultural Prgram,Clarendon ES,0.0,1,43,43
+4,MM,MM: SDC - Mild to Moderate,Clarendon ES,0.0,0,4,4
+4,GE,GE: General Education,Lilienthal (Claire) K-8,0.5,26,57,54
+4,KN,KN: Korean Immersion (Korean Speakers),Lilienthal (Claire) K-8,0.0,0,22,19
+4,GE,GE: General Education,Cleveland ES,0.0,1,22,22
+4,SB,SB: Spanish Biliteracy,Cleveland ES,0.0,0,33,36
+4,CN,CN: Cantonese Immersion (Cantonese Speakers),Yu (Alice Fong) K-8,0.2,15,66,66
+4,GE,GE: General Education,Sloat (Commodore) ES,0.3,17,66,66
+4,CB,CB: Cantonese Biliteracy,Lau (Gordon J) ES,0.0,2,64,62
+4,GE,GE: General Education,Lau (Gordon J) ES,0.1,6,44,44
+4,GE,GE: General Education,SF Community K-8,0.2,5,33,33
+4,GE,GE: General Education,Webster (Daniel) ES,0.1,3,27,30
+4,SN,SN: Spanish Immersion (Spanish Speakers),Webster (Daniel) ES,0.0,1,42,40
+4,GE,GE: General Education,Milk (Harvey) Civil Right ES,0.1,2,26,33
+4,GE,GE: General Education,Drew (Dr Charles) College Preparatory Academy ES,0.2,6,27,30
+4,CN,CN: Cantonese Immersion (Cantonese Speakers),Chinese Immersion School at DeAvila ES,0.0,1,65,66
+4,AF,AF: SDC - Mild/Mod Autism Focus,Taylor (Edward R) ES,0.0,0,3,4
+4,CB,CB: Cantonese Biliteracy,Taylor (Edward R) ES,0.0,1,37,38
+4,GE,GE: General Education,Taylor (Edward R) ES,0.1,3,41,42
+4,SB,SB: Spanish Biliteracy,Taylor (Edward R) ES,0.0,0,20,22
+4,GE,GE: General Education,El Dorado ES,0.1,2,19,18
+4,GE,GE: General Education,Cobb (Dr William L) ES,0.1,3,19,22
+4,MS,MS: SDC - Extensive Services,Huerta (Dolores) ES,0.0,0,3,3
+4,SN,SN: Spanish Immersion (Spanish Speakers),Huerta (Dolores) ES,0.1,7,65,64
+4,ED,ED: SDC - SOAR,Feinstein (Dianne) ES,0.0,0,2,4
+4,GE,GE: General Education,Feinstein (Dianne) ES,0.2,15,60,64
+4,GE,GE: General Education,Key (Francis Scott) ES,0.2,19,90,90
+4,MS,MS: SDC - Extensive Services,Key (Francis Scott) ES,0.0,0,2,3
+4,GE,GE: General Education,McCoppin (Frank) ES,0.1,8,48,66
+4,AF,AF: SDC - Mild/Mod Autism Focus,Garfield ES,0.0,0,3,3
+4,CN,CN: Cantonese Immersion (Cantonese Speakers),Garfield ES,0.1,1,9,16
+4,GE,GE: General Education,Garfield ES,0.1,1,9,13
+4,GE,GE: General Education,Peabody (George) ES,0.3,14,42,42
+4,MM,MM: SDC - Mild to Moderate,Peabody (George) ES,0.0,0,3,4
+4,GE,GE: General Education,Glen Park ES,0.1,4,35,33
+4,SA,SA: SDC - Extensive Services Autism Focus,Glen Park ES,0.0,0,4,3
+4,SB,SB: Spanish Biliteracy,Glen Park ES,0.0,0,12,14
+4,GE,GE: General Education,Grattan ES,0.2,12,64,64
+4,SA,SA: SDC - Extensive Services Autism Focus,Grattan ES,0.0,0,1,2
+4,GE,GE: General Education,Guadalupe ES,0.0,1,44,44
+4,GE,GE: General Education,Chavez (Cesar) ES,0.2,4,24,24
+4,SB,SB: Spanish Biliteracy,Chavez (Cesar) ES,0.1,5,44,44
+4,TC,TC: SDC - Total Communication,Chavez (Cesar) ES,0.0,0,3,4
+4,GE,GE: General Education,Hillcrest ES,0.0,1,23,23
+4,MM,MM: SDC - Mild to Moderate,Hillcrest ES,0.0,0,6,6
+4,SB,SB: Spanish Biliteracy,Hillcrest ES,0.0,0,21,22
+4,MM,MM: SDC - Mild to Moderate,Buena Vista Horace Mann K-8,0.0,0,6,6
+4,SN,SN: Spanish Immersion (Spanish Speakers),Buena Vista Horace Mann K-8,0.1,8,66,66
+4,GE,GE: General Education,Carver (Dr George W) ES,0.0,1,18,22
+4,CB,CB: Cantonese Biliteracy,Parker (Jean) ES,0.3,2,6,6
+4,GE,GE: General Education,Parker (Jean) ES,0.1,2,8,27
+4,AF,AF: SDC - Mild/Mod Autism Focus,Jefferson ES,0.0,0,6,6
+4,GE,GE: General Education,Jefferson ES,0.3,21,84,84
+4,GE,GE: General Education,Muir (John) ES,0.1,1,12,13
+4,SB,SB: Spanish Biliteracy,Muir (John) ES,0.1,1,22,20
+4,GE,GE: General Education,Serra (Junipero) ES,0.1,2,33,33
+4,SB,SB: Spanish Biliteracy,Serra (Junipero) ES,0.0,1,22,22
+4,AO,AO: SDC - Auditory/Oral,Lafayette ES,0.0,0,1,3
+4,GE,GE: General Education,Lafayette ES,0.1,11,80,80
+4,AF,AF: SDC - Mild/Mod Autism Focus,Lakeshore ES,0.0,0,6,7
+4,GE,GE: General Education,Lakeshore ES,0.1,8,60,64
+4,GE,GE: General Education,Lawton K-8,0.6,41,64,64
+4,MS,MS: SDC - Extensive Services,Lawton K-8,0.0,0,3,3
+4,ED,ED: SDC - SOAR,Flynn (Leonard R) ES,0.0,0,2,3
+4,GE,GE: General Education,Flynn (Leonard R) ES,0.1,2,25,32
+4,SN,SN: Spanish Immersion (Spanish Speakers),Flynn (Leonard R) ES,0.0,0,33,33
+4,GE,GE: General Education,Longfellow ES,0.0,2,53,60
+4,MM,MM: SDC - Mild to Moderate,Longfellow ES,0.0,0,5,5
+4,SB,SB: Spanish Biliteracy,Longfellow ES,0.1,2,22,22
+4,SN,SN: Spanish Immersion (Spanish Speakers),Marshall ES,0.0,1,43,44
+4,AF,AF: SDC - Mild/Mod Autism Focus,McKinley ES,0.0,0,0,4
+4,GE,GE: General Education,McKinley ES,0.2,8,40,40
+4,AF,AF: SDC - Mild/Mod Autism Focus,Miraloma ES,0.0,0,2,2
+4,GE,GE: General Education,Miraloma ES,0.1,6,56,64
+4,CB,CB: Cantonese Biliteracy,Moscone (George R) ES,0.0,0,13,13
+4,GE,GE: General Education,Moscone (George R) ES,0.0,1,22,22
+4,SB,SB: Spanish Biliteracy,Moscone (George R) ES,0.0,1,22,22
+4,NS,NS: Spanish Newcomer,Mission Education Center ES,0.0,0,12,16
+4,CB,CB: Cantonese Biliteracy,Monroe ES,0.1,2,22,22
+4,GE,GE: General Education,Monroe ES,0.2,5,22,22
+4,SN,SN: Spanish Immersion (Spanish Speakers),Monroe ES,0.0,1,45,49
+4,GE,GE: General Education,New Traditions ES,0.2,9,45,45
+4,GE,GE: General Education,Ortega (Jose) ES,0.2,8,45,45
+4,MN,MN: Mandarin Immersion (Mandarin Speakers),Ortega (Jose) ES,0.1,3,22,22
+4,GE,GE: General Education,Sunset ES,0.6,41,64,64
+4,SA,SA: SDC - Extensive Services Autism Focus,Sunset ES,0.0,0,2,2
+4,GE,GE: General Education,Revere (Paul) K-8,0.0,0,18,16
+4,MM,MM: SDC - Mild to Moderate,Revere (Paul) K-8,0.0,0,2,3
+4,SN,SN: Spanish Immersion (Spanish Speakers),Revere (Paul) K-8,0.0,0,23,33
+4,GE,GE: General Education,Stevenson (Robert Louis) ES,0.5,29,64,64
+4,MM,MM: SDC - Mild to Moderate,Stevenson (Robert Louis) ES,0.0,0,6,6
+4,AF,AF: SDC - Mild/Mod Autism Focus,Parks (Rosa) ES,0.0,0,6,6
+4,GE,GE: General Education,Parks (Rosa) ES,0.1,3,35,34
+4,JB,JB: Japanese Bilingual Bicultural Prgram,Parks (Rosa) ES,0.0,0,22,22
+4,GE,GE: General Education,Redding ES,0.0,0,37,33
+4,GE,GE: General Education,Rooftop K-8,0.2,13,66,66
+4,GE,GE: General Education,Wo (Yick) ES,0.1,4,30,32
+4,SA,SA: SDC - Extensive Services Autism Focus,Wo (Yick) ES,0.0,0,3,3
+4,GE,GE: General Education,SF Public Montessori ES,0.4,7,20,16
+4,GE,GE: General Education,Sanchez ES,0.2,4,20,19
+4,MM,MM: SDC - Mild to Moderate,Sanchez ES,0.0,0,3,3
+4,SB,SB: Spanish Biliteracy,Sanchez ES,0.2,5,22,21
+4,GE,GE: General Education,Sheridan ES,0.0,1,29,33
+4,AF,AF: SDC - Mild/Mod Autism Focus,Sherman ES,0.0,0,3,3
+4,GE,GE: General Education,Sherman ES,0.1,5,41,44
+4,GE,GE: General Education,Malcolm X Academy ES,0.1,1,17,16
+4,CB,CB: Cantonese Biliteracy,Spring Valley Science ES,0.0,0,9,11
+4,GE,GE: General Education,Spring Valley Science ES,0.1,1,10,10
+4,MM,MM: SDC - Mild to Moderate,Spring Valley Science ES,0.0,0,4,4
+4,SB,SB: Spanish Biliteracy,Spring Valley Science ES,0.1,2,21,20
+4,GE,GE: General Education,King (Thomas Starr) ES,0.1,1,15,16
+4,MN,MN: Mandarin Immersion (Mandarin Speakers),King (Thomas Starr) ES,0.0,1,32,33
+4,SA,SA: SDC - Extensive Services Autism Focus,King (Thomas Starr) ES,0.0,0,4,4
+4,GE,GE: General Education,Sunnyside ES,0.1,8,64,64
+4,MS,MS: SDC - Extensive Services,Sunnyside ES,0.0,0,1,3
+4,CB,CB: Cantonese Biliteracy,Sutro ES,0.0,0,21,21
+4,GE,GE: General Education,Sutro ES,0.3,6,22,22
+4,ED,ED: SDC - SOAR,Tenderloin Community ES,0.0,0,0,1
+4,GE,GE: General Education,Tenderloin Community ES,0.0,2,40,49
+4,CB,CB: Cantonese Biliteracy,Ulloa ES,0.3,6,22,22
+4,GE,GE: General Education,Ulloa ES,0.3,21,67,67
+4,CB,CB: Cantonese Biliteracy,Visitacion Valley ES,0.0,0,10,10
+4,GE,GE: General Education,Visitacion Valley ES,0.0,1,23,23
+4,GE,GE: General Education,Chin (John Yehall) ES,0.0,2,43,49
+4,CN,CN: Cantonese Immersion (Cantonese Speakers),West Portal ES,0.2,5,32,33
+4,GE,GE: General Education,West Portal ES,0.3,23,66,66
+5,GE,GE: General Education,Alamo ES,0.1,6,64,64
+5,SA,SA: SDC - Extensive Services Autism Focus,Alamo ES,0.0,0,1,3
+5,GE,GE: General Education,Alvarado ES,0.2,6,38,38
+5,MS,MS: SDC - Extensive Services,Alvarado ES,0.0,0,4,3
+5,SN,SN: Spanish Immersion (Spanish Speakers),Alvarado ES,0.0,2,44,44
+5,AF,AF: SDC - Mild/Mod Autism Focus,Argonne ES,0.0,0,4,4
+5,GE,GE: General Education,Argonne ES,0.0,2,58,58
+5,FB,FB: Filipino FLES,Carmichael (Bessie) K-8,0.0,0,20,22
+5,GE,GE: General Education,Carmichael (Bessie) K-8,0.0,0,41,40
+5,GE,GE: General Education,Harte (Bret) ES,0.0,0,19,30
+5,SN,SN: Spanish Immersion (Spanish Speakers),Harte (Bret) ES,0.0,0,19,25
+5,GE,GE: General Education,Bryant ES,0.1,2,18,18
+5,SB,SB: Spanish Biliteracy,Bryant ES,0.1,2,22,22
+5,NC,NC: Chinese Newcomer,Lee (Edwin and Anita) Newcomer ES,0.0,0,1,6
+5,GE,GE: General Education,Clarendon ES,0.2,8,40,40
+5,JB,JB: Japanese Bilingual Bicultural Prgram,Clarendon ES,0.0,1,44,44
+5,MM,MM: SDC - Mild to Moderate,Clarendon ES,0.0,0,3,4
+5,GE,GE: General Education,Lilienthal (Claire) K-8,0.5,25,53,52
+5,KN,KN: Korean Immersion (Korean Speakers),Lilienthal (Claire) K-8,0.0,0,19,14
+5,GE,GE: General Education,Cleveland ES,0.1,2,19,22
+5,SB,SB: Spanish Biliteracy,Cleveland ES,0.0,1,43,42
+5,CN,CN: Cantonese Immersion (Cantonese Speakers),Yu (Alice Fong) K-8,0.2,11,66,66
+5,GE,GE: General Education,Sloat (Commodore) ES,0.1,5,66,66
+5,CB,CB: Cantonese Biliteracy,Lau (Gordon J) ES,0.1,4,55,55
+5,GE,GE: General Education,Lau (Gordon J) ES,0.1,5,64,63
+5,GE,GE: General Education,SF Community K-8,0.1,3,33,33
+5,GE,GE: General Education,Webster (Daniel) ES,0.0,1,21,30
+5,SN,SN: Spanish Immersion (Spanish Speakers),Webster (Daniel) ES,0.0,0,28,26
+5,GE,GE: General Education,Milk (Harvey) Civil Right ES,0.1,3,33,33
+5,GE,GE: General Education,Drew (Dr Charles) College Preparatory Academy ES,0.0,1,25,30
+5,CN,CN: Cantonese Immersion (Cantonese Speakers),Chinese Immersion School at DeAvila ES,0.0,0,54,66
+5,AF,AF: SDC - Mild/Mod Autism Focus,Taylor (Edward R) ES,0.0,0,3,4
+5,CB,CB: Cantonese Biliteracy,Taylor (Edward R) ES,0.0,0,38,39
+5,GE,GE: General Education,Taylor (Edward R) ES,0.1,3,41,41
+5,SB,SB: Spanish Biliteracy,Taylor (Edward R) ES,0.1,1,20,20
+5,GE,GE: General Education,El Dorado ES,0.0,0,14,14
+5,GE,GE: General Education,Cobb (Dr William L) ES,0.1,2,22,22
+5,MS,MS: SDC - Extensive Services,Huerta (Dolores) ES,0.0,0,3,3
+5,SN,SN: Spanish Immersion (Spanish Speakers),Huerta (Dolores) ES,0.0,2,60,64
+5,ED,ED: SDC - SOAR,Feinstein (Dianne) ES,0.0,0,2,3
+5,GE,GE: General Education,Feinstein (Dianne) ES,0.0,3,56,64
+5,GE,GE: General Education,Key (Francis Scott) ES,0.1,10,90,90
+5,MS,MS: SDC - Extensive Services,Key (Francis Scott) ES,0.0,0,1,3
+5,GE,GE: General Education,McCoppin (Frank) ES,0.2,5,33,33
+5,AF,AF: SDC - Mild/Mod Autism Focus,Garfield ES,0.0,0,3,4
+5,CN,CN: Cantonese Immersion (Cantonese Speakers),Garfield ES,0.1,1,9,16
+5,GE,GE: General Education,Garfield ES,0.0,0,19,18
+5,GE,GE: General Education,Peabody (George) ES,0.2,8,42,42
+5,MM,MM: SDC - Mild to Moderate,Peabody (George) ES,0.0,0,4,4
+5,GE,GE: General Education,Glen Park ES,0.2,6,31,33
+5,SA,SA: SDC - Extensive Services Autism Focus,Glen Park ES,0.0,0,3,3
+5,SB,SB: Spanish Biliteracy,Glen Park ES,0.0,0,20,18
+5,GE,GE: General Education,Grattan ES,0.2,11,61,60
+5,SA,SA: SDC - Extensive Services Autism Focus,Grattan ES,0.0,0,4,4
+5,GE,GE: General Education,Guadalupe ES,0.0,0,42,44
+5,GE,GE: General Education,Chavez (Cesar) ES,0.0,1,22,21
+5,SB,SB: Spanish Biliteracy,Chavez (Cesar) ES,0.1,3,44,44
+5,TC,TC: SDC - Total Communication,Chavez (Cesar) ES,0.0,0,1,2
+5,GE,GE: General Education,Hillcrest ES,0.0,0,29,29
+5,MM,MM: SDC - Mild to Moderate,Hillcrest ES,0.0,0,4,6
+5,SB,SB: Spanish Biliteracy,Hillcrest ES,0.0,0,22,22
+5,MM,MM: SDC - Mild to Moderate,Buena Vista Horace Mann K-8,0.0,0,4,4
+5,SN,SN: Spanish Immersion (Spanish Speakers),Buena Vista Horace Mann K-8,0.1,4,66,66
+5,GE,GE: General Education,Carver (Dr George W) ES,0.0,0,10,10
+5,CB,CB: Cantonese Biliteracy,Parker (Jean) ES,0.4,4,9,9
+5,GE,GE: General Education,Parker (Jean) ES,0.2,5,12,24
+5,AF,AF: SDC - Mild/Mod Autism Focus,Jefferson ES,0.0,0,5,5
+5,GE,GE: General Education,Jefferson ES,0.1,10,74,74
+5,GE,GE: General Education,Muir (John) ES,0.0,1,26,24
+5,SB,SB: Spanish Biliteracy,Muir (John) ES,0.1,1,19,18
+5,GE,GE: General Education,Serra (Junipero) ES,0.1,1,20,20
+5,SB,SB: Spanish Biliteracy,Serra (Junipero) ES,0.1,2,22,22
+5,AO,AO: SDC - Auditory/Oral,Lafayette ES,0.0,0,0,3
+5,GE,GE: General Education,Lafayette ES,0.0,3,81,80
+5,AF,AF: SDC - Mild/Mod Autism Focus,Lakeshore ES,0.0,0,4,5
+5,GE,GE: General Education,Lakeshore ES,0.0,3,59,64
+5,GE,GE: General Education,Lawton K-8,0.5,29,64,64
+5,MS,MS: SDC - Extensive Services,Lawton K-8,0.0,0,4,4
+5,ED,ED: SDC - SOAR,Flynn (Leonard R) ES,0.0,0,3,4
+5,GE,GE: General Education,Flynn (Leonard R) ES,0.0,1,32,32
+5,SN,SN: Spanish Immersion (Spanish Speakers),Flynn (Leonard R) ES,0.0,0,31,33
+5,GE,GE: General Education,Longfellow ES,0.0,1,64,64
+5,MM,MM: SDC - Mild to Moderate,Longfellow ES,0.0,0,3,4
+5,SB,SB: Spanish Biliteracy,Longfellow ES,0.0,1,22,22
+5,SN,SN: Spanish Immersion (Spanish Speakers),Marshall ES,0.0,1,45,44
+5,AF,AF: SDC - Mild/Mod Autism Focus,McKinley ES,0.0,0,0,4
+5,GE,GE: General Education,McKinley ES,0.1,4,48,48
+5,AF,AF: SDC - Mild/Mod Autism Focus,Miraloma ES,0.0,0,6,6
+5,GE,GE: General Education,Miraloma ES,0.0,3,48,64
+5,CB,CB: Cantonese Biliteracy,Moscone (George R) ES,0.0,0,20,20
+5,GE,GE: General Education,Moscone (George R) ES,0.0,1,22,22
+5,SB,SB: Spanish Biliteracy,Moscone (George R) ES,0.1,3,22,22
+5,NS,NS: Spanish Newcomer,Mission Education Center ES,0.0,0,19,16
+5,CB,CB: Cantonese Biliteracy,Monroe ES,0.0,1,21,21
+5,GE,GE: General Education,Monroe ES,0.1,2,28,25
+5,SN,SN: Spanish Immersion (Spanish Speakers),Monroe ES,0.0,0,43,49
+5,GE,GE: General Education,New Traditions ES,0.1,6,45,45
+5,GE,GE: General Education,Ortega (Jose) ES,0.1,4,44,45
+5,MN,MN: Mandarin Immersion (Mandarin Speakers),Ortega (Jose) ES,0.0,0,19,22
+5,GE,GE: General Education,Sunset ES,0.4,25,64,64
+5,SA,SA: SDC - Extensive Services Autism Focus,Sunset ES,0.0,0,2,2
+5,GE,GE: General Education,Revere (Paul) K-8,0.0,0,14,16
+5,MM,MM: SDC - Mild to Moderate,Revere (Paul) K-8,0.0,0,5,4
+5,SN,SN: Spanish Immersion (Spanish Speakers),Revere (Paul) K-8,0.0,0,29,33
+5,GE,GE: General Education,Stevenson (Robert Louis) ES,0.2,14,64,64
+5,MM,MM: SDC - Mild to Moderate,Stevenson (Robert Louis) ES,0.0,0,5,5
+5,AF,AF: SDC - Mild/Mod Autism Focus,Parks (Rosa) ES,0.0,0,3,6
+5,GE,GE: General Education,Parks (Rosa) ES,0.0,1,21,21
+5,JB,JB: Japanese Bilingual Bicultural Prgram,Parks (Rosa) ES,0.0,0,29,30
+5,GE,GE: General Education,Redding ES,0.0,1,34,33
+5,GE,GE: General Education,Rooftop K-8,0.3,20,66,66
+5,GE,GE: General Education,Wo (Yick) ES,0.1,4,35,32
+5,SA,SA: SDC - Extensive Services Autism Focus,Wo (Yick) ES,0.0,0,1,3
+5,GE,GE: General Education,SF Public Montessori ES,0.1,2,16,16
+5,GE,GE: General Education,Sanchez ES,0.1,1,21,19
+5,MM,MM: SDC - Mild to Moderate,Sanchez ES,0.0,0,5,6
+5,SB,SB: Spanish Biliteracy,Sanchez ES,0.0,1,21,21
+5,GE,GE: General Education,Sheridan ES,0.1,2,29,33
+5,AF,AF: SDC - Mild/Mod Autism Focus,Sherman ES,0.0,0,7,7
+5,GE,GE: General Education,Sherman ES,0.1,4,38,44
+5,GE,GE: General Education,Malcolm X Academy ES,0.0,0,14,16
+5,CB,CB: Cantonese Biliteracy,Spring Valley Science ES,0.0,0,9,9
+5,GE,GE: General Education,Spring Valley Science ES,0.1,1,12,12
+5,MM,MM: SDC - Mild to Moderate,Spring Valley Science ES,0.0,0,0,2
+5,SB,SB: Spanish Biliteracy,Spring Valley Science ES,0.0,0,17,17
+5,GE,GE: General Education,King (Thomas Starr) ES,0.0,0,18,16
+5,MN,MN: Mandarin Immersion (Mandarin Speakers),King (Thomas Starr) ES,0.0,0,35,33
+5,SA,SA: SDC - Extensive Services Autism Focus,King (Thomas Starr) ES,0.0,0,2,3
+5,GE,GE: General Education,Sunnyside ES,0.0,2,54,54
+5,MS,MS: SDC - Extensive Services,Sunnyside ES,0.0,0,0,3
+5,CB,CB: Cantonese Biliteracy,Sutro ES,0.0,0,16,16
+5,GE,GE: General Education,Sutro ES,0.1,1,18,17
+5,ED,ED: SDC - SOAR,Tenderloin Community ES,0.0,0,2,1
+5,GE,GE: General Education,Tenderloin Community ES,0.0,1,48,48
+5,CB,CB: Cantonese Biliteracy,Ulloa ES,0.0,0,21,21
+5,GE,GE: General Education,Ulloa ES,0.2,10,65,63
+5,CB,CB: Cantonese Biliteracy,Visitacion Valley ES,0.0,0,13,13
+5,GE,GE: General Education,Visitacion Valley ES,0.0,0,32,28
+5,GE,GE: General Education,Chin (John Yehall) ES,0.1,6,49,49
+5,CN,CN: Cantonese Immersion (Cantonese Speakers),West Portal ES,0.0,1,27,33
+5,GE,GE: General Education,West Portal ES,0.2,11,66,66
+6,AF,AF: SDC - Mild/Mod Autism Focus,Giannini (A.P.) MS,5.0,20,4,4
+6,GE,GE: General Education,Aptos MS,3.5,"1,022",290,290
+6,MM,MM: SDC - Mild to Moderate,Giannini (A.P.) MS,5.7,17,3,3
+6,MS,MS: SDC - Extensive Services,Giannini (A.P.) MS,2.0,6,3,3
+6,SA,SA: SDC - Extensive Services Autism Focus,Giannini (A.P.) MS,2.0,6,2,3
+6,GE,GE: General Education,Brown Jr. (Willie) MS,1.7,315,190,190
+6,MM,MM: SDC - Mild to Moderate,Aptos MS,5.0,20,4,4
+6,MN,MN: Mandarin Immersion (Mandarin Speakers),Aptos MS,1.1,70,54,66
+6,SA,SA: SDC - Extensive Services Autism Focus,Aptos MS,0.2,1,1,5
+6,GE,GE: General Education,Carmichael (Bessie) K-8,1.2,79,66,66
+6,GE,GE: General Education,Denman (James) MS,1.9,569,300,300
+6,CN,CN: Cantonese Immersion (Cantonese Speakers),Yu (Alice Fong) K-8,1.4,95,66,66
+6,GE,GE: General Education,Everett MS,2.5,262,105,105
+6,AF,AF: SDC - Mild/Mod Autism Focus,Everett MS,1.0,5,3,5
+6,GE,GE: General Education,Francisco MS,2.3,326,142,142
+6,MM,MM: SDC - Mild to Moderate,Everett MS,1.6,8,4,5
+6,NX,NX: Newcomer Program,Everett MS,0.2,12,7,50
+6,SN,SN: Spanish Immersion (Spanish Speakers),Everett MS,2.9,102,35,35
+6,ED,ED: SDC - SOAR,Francisco MS,0.3,1,2,3
+6,GE,GE: General Education,Giannini (A.P.) MS,3.7,"1,511",407,407
+6,MM,MM: SDC - Mild to Moderate,Francisco MS,2.0,4,1,2
+6,NX,NX: Newcomer Program,Francisco MS,0.2,11,5,50
+6,SA,SA: SDC - Extensive Services Autism Focus,Francisco MS,0.8,3,1,4
+6,AF,AF: SDC - Mild/Mod Autism Focus,Hoover (Herbert) MS,0.0,0,0,6
+6,CN,CN: Cantonese Immersion (Cantonese Speakers),Hoover (Herbert) MS,1.7,112,66,66
+6,ED,ED: SDC - SOAR,Hoover (Herbert) MS,0.0,0,4,4
+6,GE,GE: General Education,Hoover (Herbert) MS,5.4,"1,147",211,211
+6,MM,MM: SDC - Mild to Moderate,Hoover (Herbert) MS,2.2,11,5,5
+6,SN,SN: Spanish Immersion (Spanish Speakers),Hoover (Herbert) MS,2.7,175,66,66
+6,SN,SN: Spanish Immersion (Spanish Speakers),Buena Vista Horace Mann K-8,2.1,136,66,66
+6,AF,AF: SDC - Mild/Mod Autism Focus,Denman (James) MS,4.0,8,2,2
+6,ED,ED: SDC - SOAR,Denman (James) MS,0.3,1,1,3
+6,GE,GE: General Education,King Jr (Dr Martin L) MS,1.2,228,189,195
+6,MM,MM: SDC - Mild to Moderate,Denman (James) MS,7.5,15,2,2
+6,MS,MS: SDC - Extensive Services,Denman (James) MS,1.7,5,3,3
+6,ED,ED: SDC - SOAR,Lick (James) MS,0.3,1,1,3
+6,GE,GE: General Education,Lawton K-8,11.5,736,64,64
+6,MM,MM: SDC - Mild to Moderate,Lick (James) MS,-,4,0,0
+6,SN,SN: Spanish Immersion (Spanish Speakers),Lick (James) MS,2.4,168,69,69
+6,GE,GE: General Education,Lick (James) MS,3.2,383,120,120
+6,MS,MS: SDC - Extensive Services,Lawton K-8,2.0,4,2,2
+6,AF,AF: SDC - Mild/Mod Autism Focus,Marina MS,1.8,7,3,4
+6,CN,CN: Cantonese Immersion (Cantonese Speakers),Marina MS,2.1,33,13,16
+6,GE,GE: General Education,Lilienthal (Claire) K-8,6.1,402,66,66
+6,MM,MM: SDC - Mild to Moderate,Marina MS,1.6,8,4,5
+6,GE,GE: General Education,Marina MS,2.1,514,240,240
+6,MM,MM: SDC - Mild to Moderate,King Jr (Dr Martin L) MS,5.0,5,1,1
+6,GE,GE: General Education,Presidio MS,3.6,"1,157",325,325
+6,AF,AF: SDC - Mild/Mod Autism Focus,Presidio MS,4.7,14,3,3
+6,AO,AO: SDC - Auditory/Oral,Presidio MS,0.0,0,2,3
+6,ED,ED: SDC - SOAR,Presidio MS,-,1,0,0
+6,GE,GE: General Education,Revere (Paul) K-8,1.3,84,64,64
+6,JB,JB: Japanese Bilingual Bicultural Prgram,Presidio MS,1.5,54,36,36
+6,MM,MM: SDC - Mild to Moderate,Presidio MS,5.0,15,3,3
+6,MS,MS: SDC - Extensive Services,Presidio MS,1.7,5,1,3
+6,TC,TC: SDC - Total Communication,Presidio MS,0.0,0,2,3
+6,GE,GE: General Education,Rooftop K-8,6.6,437,66,66
+6,AF,AF: SDC - Mild/Mod Autism Focus,Roosevelt MS,7.5,15,2,2
+6,CN,CN: Cantonese Immersion (Cantonese Speakers),Roosevelt MS,1.6,107,66,66
+6,GE,GE: General Education,Roosevelt MS,7.5,"1,097",147,147
+6,MM,MM: SDC - Mild to Moderate,Roosevelt MS,4.0,16,4,4
+6,SA,SA: SDC - Extensive Services Autism Focus,Roosevelt MS,2.3,7,3,3
+6,GE,GE: General Education,SF Community K-8,4.4,146,33,33
+6,MM,MM: SDC - Mild to Moderate,Brown Jr. (Willie) MS,0.0,0,0,4
+6,GE,GE: General Education,Visitacion Valley MS,1.2,187,139,160
+6,MM,MM: SDC - Mild to Moderate,Visitacion Valley MS,-,3,0,0
+6,NX,NX: Newcomer Program,Visitacion Valley MS,0.3,7,6,25
+6,SA,SA: SDC - Extensive Services Autism Focus,Visitacion Valley MS,0.0,0,0,4
+7,AF,AF: SDC - Mild/Mod Autism Focus,Giannini (A.P.) MS,0.0,0,2,4
+7,GE,GE: General Education,Giannini (A.P.) MS,0.2,57,381,378
+7,MM,MM: SDC - Mild to Moderate,Giannini (A.P.) MS,0.0,0,9,10
+7,MS,MS: SDC - Extensive Services,Giannini (A.P.) MS,0.0,0,2,3
+7,SA,SA: SDC - Extensive Services Autism Focus,Giannini (A.P.) MS,0.0,0,2,3
+7,GE,GE: General Education,Aptos MS,0.1,21,252,252
+7,MM,MM: SDC - Mild to Moderate,Aptos MS,0.2,1,5,6
+7,MN,MN: Mandarin Immersion (Mandarin Speakers),Aptos MS,0.0,0,48,50
+7,SA,SA: SDC - Extensive Services Autism Focus,Aptos MS,0.0,0,3,3
+7,GE,GE: General Education,Carmichael (Bessie) K-8,0.0,1,61,66
+7,GE,GE: General Education,Lilienthal (Claire) K-8,0.3,18,66,66
+7,CN,CN: Cantonese Immersion (Cantonese Speakers),Yu (Alice Fong) K-8,0.0,2,66,66
+7,GE,GE: General Education,SF Community K-8,0.2,5,28,33
+7,AF,AF: SDC - Mild/Mod Autism Focus,Everett MS,0.0,0,3,4
+7,GE,GE: General Education,Everett MS,0.0,3,66,66
+7,MM,MM: SDC - Mild to Moderate,Everett MS,0.0,0,2,2
+7,NX,NX: Newcomer Program,Everett MS,0.0,0,34,75
+7,SN,SN: Spanish Immersion (Spanish Speakers),Everett MS,0.0,0,25,33
+7,ED,ED: SDC - SOAR,Francisco MS,0.0,0,2,3
+7,GE,GE: General Education,Francisco MS,0.1,10,128,132
+7,MM,MM: SDC - Mild to Moderate,Francisco MS,0.0,0,6,5
+7,NX,NX: Newcomer Program,Francisco MS,0.0,0,26,50
+7,SA,SA: SDC - Extensive Services Autism Focus,Francisco MS,0.0,0,3,3
+7,AF,AF: SDC - Mild/Mod Autism Focus,Hoover (Herbert) MS,0.0,0,0,3
+7,CN,CN: Cantonese Immersion (Cantonese Speakers),Hoover (Herbert) MS,0.0,0,55,66
+7,ED,ED: SDC - SOAR,Hoover (Herbert) MS,0.0,0,2,2
+7,GE,GE: General Education,Hoover (Herbert) MS,0.1,26,197,197
+7,MM,MM: SDC - Mild to Moderate,Hoover (Herbert) MS,0.3,1,4,4
+7,SN,SN: Spanish Immersion (Spanish Speakers),Hoover (Herbert) MS,0.0,0,64,66
+7,SN,SN: Spanish Immersion (Spanish Speakers),Buena Vista Horace Mann K-8,0.0,2,66,66
+7,AF,AF: SDC - Mild/Mod Autism Focus,Denman (James) MS,0.2,1,5,5
+7,ED,ED: SDC - SOAR,Denman (James) MS,0.0,0,2,3
+7,GE,GE: General Education,Denman (James) MS,0.0,7,264,264
+7,MM,MM: SDC - Mild to Moderate,Denman (James) MS,0.0,0,6,6
+7,MS,MS: SDC - Extensive Services,Denman (James) MS,0.0,0,3,3
+7,ED,ED: SDC - SOAR,Lick (James) MS,0.0,0,0,3
+7,GE,GE: General Education,Lick (James) MS,0.1,10,94,99
+7,MM,MM: SDC - Mild to Moderate,Lick (James) MS,0.1,1,8,11
+7,SN,SN: Spanish Immersion (Spanish Speakers),Lick (James) MS,0.0,1,75,77
+7,GE,GE: General Education,Lawton K-8,0.4,26,64,64
+7,MS,MS: SDC - Extensive Services,Lawton K-8,0.0,0,3,4
+7,AF,AF: SDC - Mild/Mod Autism Focus,Marina MS,0.3,1,3,3
+7,CN,CN: Cantonese Immersion (Cantonese Speakers),Marina MS,0.0,0,13,14
+7,GE,GE: General Education,Marina MS,0.0,10,199,216
+7,MM,MM: SDC - Mild to Moderate,Marina MS,0.2,1,4,5
+7,GE,GE: General Education,King Jr (Dr Martin L) MS,0.0,2,118,132
+7,MM,MM: SDC - Mild to Moderate,King Jr (Dr Martin L) MS,0.0,0,7,7
+7,GE,GE: General Education,Revere (Paul) K-8,0.0,2,54,66
+7,AF,AF: SDC - Mild/Mod Autism Focus,Presidio MS,0.0,0,2,3
+7,AO,AO: SDC - Auditory/Oral,Presidio MS,0.0,0,2,3
+7,GE,GE: General Education,Presidio MS,0.1,30,290,290
+7,JB,JB: Japanese Bilingual Bicultural Prgram,Presidio MS,0.0,0,34,33
+7,MM,MM: SDC - Mild to Moderate,Presidio MS,0.3,1,2,3
+7,MS,MS: SDC - Extensive Services,Presidio MS,0.0,0,4,4
+7,TC,TC: SDC - Total Communication,Presidio MS,0.0,0,0,3
+7,GE,GE: General Education,Rooftop K-8,0.2,16,66,66
+7,AF,AF: SDC - Mild/Mod Autism Focus,Roosevelt MS,0.2,1,6,6
+7,CN,CN: Cantonese Immersion (Cantonese Speakers),Roosevelt MS,0.0,1,65,66
+7,GE,GE: General Education,Roosevelt MS,0.3,38,147,147
+7,MM,MM: SDC - Mild to Moderate,Roosevelt MS,0.0,0,3,2
+7,SA,SA: SDC - Extensive Services Autism Focus,Roosevelt MS,0.0,0,4,4
+7,GE,GE: General Education,Brown Jr. (Willie) MS,0.0,3,115,132
+7,MM,MM: SDC - Mild to Moderate,Brown Jr. (Willie) MS,0.0,0,0,4
+7,GE,GE: General Education,Visitacion Valley MS,0.0,3,69,99
+7,MM,MM: SDC - Mild to Moderate,Visitacion Valley MS,0.0,0,5,4
+7,NX,NX: Newcomer Program,Visitacion Valley MS,0.0,0,25,50
+7,SA,SA: SDC - Extensive Services Autism Focus,Visitacion Valley MS,0.0,0,0,3
+8,AF,AF: SDC - Mild/Mod Autism Focus,Giannini (A.P.) MS,0.0,0,3,4
+8,GE,GE: General Education,Giannini (A.P.) MS,0.1,33,380,378
+8,MM,MM: SDC - Mild to Moderate,Giannini (A.P.) MS,0.1,1,9,9
+8,MS,MS: SDC - Extensive Services,Giannini (A.P.) MS,0.0,0,3,4
+8,SA,SA: SDC - Extensive Services Autism Focus,Giannini (A.P.) MS,0.0,0,2,4
+8,GE,GE: General Education,Aptos MS,0.0,8,252,252
+8,MM,MM: SDC - Mild to Moderate,Aptos MS,0.0,0,11,12
+8,MN,MN: Mandarin Immersion (Mandarin Speakers),Aptos MS,0.0,0,46,50
+8,SA,SA: SDC - Extensive Services Autism Focus,Aptos MS,0.0,0,1,2
+8,GE,GE: General Education,Carmichael (Bessie) K-8,0.0,2,65,66
+8,GE,GE: General Education,Lilienthal (Claire) K-8,0.2,16,68,66
+8,CN,CN: Cantonese Immersion (Cantonese Speakers),Yu (Alice Fong) K-8,0.0,1,66,66
+8,GE,GE: General Education,SF Community K-8,0.1,2,28,33
+8,AF,AF: SDC - Mild/Mod Autism Focus,Everett MS,0.0,0,2,2
+8,GE,GE: General Education,Everett MS,0.1,6,93,99
+8,MM,MM: SDC - Mild to Moderate,Everett MS,0.2,1,5,5
+8,NX,NX: Newcomer Program,Everett MS,0.0,0,51,75
+8,SN,SN: Spanish Immersion (Spanish Speakers),Everett MS,0.1,2,30,33
+8,ED,ED: SDC - SOAR,Francisco MS,0.0,0,1,4
+8,GE,GE: General Education,Francisco MS,0.0,2,133,132
+8,MM,MM: SDC - Mild to Moderate,Francisco MS,0.0,0,4,4
+8,NX,NX: Newcomer Program,Francisco MS,0.0,1,39,50
+8,SA,SA: SDC - Extensive Services Autism Focus,Francisco MS,0.0,0,2,3
+8,AF,AF: SDC - Mild/Mod Autism Focus,Hoover (Herbert) MS,0.0,0,0,3
+8,CN,CN: Cantonese Immersion (Cantonese Speakers),Hoover (Herbert) MS,0.0,0,64,66
+8,ED,ED: SDC - SOAR,Hoover (Herbert) MS,0.0,0,3,4
+8,GE,GE: General Education,Hoover (Herbert) MS,0.1,12,197,197
+8,MM,MM: SDC - Mild to Moderate,Hoover (Herbert) MS,0.3,1,2,3
+8,SN,SN: Spanish Immersion (Spanish Speakers),Hoover (Herbert) MS,0.0,0,50,50
+8,SN,SN: Spanish Immersion (Spanish Speakers),Buena Vista Horace Mann K-8,0.0,3,66,66
+8,AF,AF: SDC - Mild/Mod Autism Focus,Denman (James) MS,0.0,0,4,5
+8,ED,ED: SDC - SOAR,Denman (James) MS,0.0,0,3,4
+8,GE,GE: General Education,Denman (James) MS,0.0,8,264,264
+8,MM,MM: SDC - Mild to Moderate,Denman (James) MS,0.0,0,3,4
+8,MS,MS: SDC - Extensive Services,Denman (James) MS,0.0,0,2,3
+8,ED,ED: SDC - SOAR,Lick (James) MS,0.0,0,2,4
+8,GE,GE: General Education,Lick (James) MS,0.0,3,79,99
+8,MM,MM: SDC - Mild to Moderate,Lick (James) MS,0.1,1,13,13
+8,SN,SN: Spanish Immersion (Spanish Speakers),Lick (James) MS,0.0,2,71,77
+8,GE,GE: General Education,Lawton K-8,0.3,19,64,64
+8,MS,MS: SDC - Extensive Services,Lawton K-8,0.0,0,6,5
+8,AF,AF: SDC - Mild/Mod Autism Focus,Marina MS,0.0,0,4,4
+8,CN,CN: Cantonese Immersion (Cantonese Speakers),Marina MS,0.0,0,27,33
+8,GE,GE: General Education,Marina MS,0.0,3,194,198
+8,MM,MM: SDC - Mild to Moderate,Marina MS,1.0,2,2,2
+8,GE,GE: General Education,King Jr (Dr Martin L) MS,0.0,4,127,132
+8,MM,MM: SDC - Mild to Moderate,King Jr (Dr Martin L) MS,0.0,0,4,4
+8,GE,GE: General Education,Revere (Paul) K-8,0.0,2,56,66
+8,AF,AF: SDC - Mild/Mod Autism Focus,Presidio MS,0.0,0,5,6
+8,AO,AO: SDC - Auditory/Oral,Presidio MS,0.0,0,4,4
+8,GE,GE: General Education,Presidio MS,0.1,24,290,290
+8,JB,JB: Japanese Bilingual Bicultural Prgram,Presidio MS,0.0,0,21,33
+8,MM,MM: SDC - Mild to Moderate,Presidio MS,0.2,1,6,6
+8,MS,MS: SDC - Extensive Services,Presidio MS,0.0,0,2,3
+8,TC,TC: SDC - Total Communication,Presidio MS,0.0,0,4,4
+8,GE,GE: General Education,Rooftop K-8,0.3,19,66,66
+8,AF,AF: SDC - Mild/Mod Autism Focus,Roosevelt MS,0.0,0,3,4
+8,CN,CN: Cantonese Immersion (Cantonese Speakers),Roosevelt MS,0.0,1,66,66
+8,GE,GE: General Education,Roosevelt MS,0.2,25,140,140
+8,MM,MM: SDC - Mild to Moderate,Roosevelt MS,0.2,1,4,5
+8,SA,SA: SDC - Extensive Services Autism Focus,Roosevelt MS,0.0,0,3,3
+8,GE,GE: General Education,Brown Jr. (Willie) MS,0.1,10,112,132
+8,MM,MM: SDC - Mild to Moderate,Brown Jr. (Willie) MS,0.0,0,1,4
+8,GE,GE: General Education,Visitacion Valley MS,0.0,3,81,99
+8,MM,MM: SDC - Mild to Moderate,Visitacion Valley MS,0.2,1,6,6
+8,NX,NX: Newcomer Program,Visitacion Valley MS,0.0,0,32,50
+8,SA,SA: SDC - Extensive Services Autism Focus,Visitacion Valley MS,0.0,0,0,3
+9,AF,AF: SDC - Mild/Mod Autism Focus,Lincoln (Abraham) HS,11.0,11,1,1
+9,ED,ED: SDC - SOAR,Lincoln (Abraham) HS,1.3,5,4,4
+9,GE,GE: General Education,Lincoln (Abraham) HS,4.3,"2,344",550,550
+9,MM,MM: SDC - Mild to Moderate,Lincoln (Abraham) HS,2.4,24,10,10
+9,MS,MS: SDC - Extensive Services,Lincoln (Abraham) HS,-,6,0,0
+9,SA,SA: SDC - Extensive Services Autism Focus,Lincoln (Abraham) HS,1.1,9,5,8
+9,GE,GE: General Education,Balboa HS,4.2,"1,432",340,340
+9,MM,MM: SDC - Mild to Moderate,Balboa HS,2.6,23,9,9
+9,MS,MS: SDC - Extensive Services,Balboa HS,1.0,2,2,2
+9,NX,NX: Newcomer Program,Balboa HS,-,1,0,0
+9,AF,AF: SDC - Mild/Mod Autism Focus,Galileo HS,0.0,0,0,10
+9,ED,ED: SDC - SOAR,Galileo HS,1.3,4,1,3
+9,GE,GE: General Education,Galileo HS,2.9,"1,346",460,460
+9,MM,MM: SDC - Mild to Moderate,Galileo HS,1.7,17,7,10
+9,MS,MS: SDC - Extensive Services,Galileo HS,1.5,3,2,2
+9,NX,NX: Newcomer Program,Galileo HS,0.4,43,24,100
+9,ED,ED: SDC - SOAR,Washington (George) HS,2.0,4,0,2
+9,GE,GE: General Education,Washington (George) HS,3.4,"1,890",560,560
+9,MM,MM: SDC - Mild to Moderate,Washington (George) HS,2.7,24,9,9
+9,MS,MS: SDC - Extensive Services,Washington (George) HS,-,6,0,0
+9,GX,GX: General Education Newcomer,SF International HS,0.4,8,2,20
+9,NC,NC: Chinese Newcomer,SF International HS,0.0,1,0,35
+9,NS,NS: Spanish Newcomer,SF International HS,0.2,6,2,40
+9,NX,NX: Newcomer Program,SF International HS,0.4,31,18,70
+9,GE,GE: General Education,O'Connell (John) HS,2.3,408,175,175
+9,MM,MM: SDC - Mild to Moderate,O'Connell (John) HS,3.0,12,4,4
+12,MS,MS: SDC - Extensive Services,Lowell HS,0.0,0,11,11
+9,SA,SA: SDC - Extensive Services Autism Focus,Lowell HS,2.0,10,5,5
+10,SA,Bay Stree Transition,Lowell HS,0.2,1,5,5
+11,SA,SDC Transition Program (CAT),Lowell HS,0.0,0,5,5
+12,SA,SDC Transition Program (CAT),Lowell HS,0.0,0,5,5
+9,ED,ED: SDC - SOAR,Mission HS,1.7,5,2,3
+9,GE,GE: General Education,Mission HS,2.5,713,280,280
+9,MM,MM: SDC - Mild to Moderate,Mission HS,1.3,12,1,9
+9,MS,MS: SDC - Extensive Services,Mission HS,0.3,1,2,4
+9,NX,NX: Newcomer Program,Mission HS,0.4,41,7,100
+9,SA,SA: SDC - Extensive Services Autism Focus,Mission HS,2.5,5,1,2
+9,AF,AF: SDC - Mild/Mod Autism Focus,Jordan (June) HS,0.3,1,1,4
+9,GE,GE: General Education,Jordan (June) HS,4.4,222,50,50
+9,MM,MM: SDC - Mild to Moderate,Jordan (June) HS,2.0,6,0,3
+9,MS,MS: SDC - Extensive Services,Jordan (June) HS,-,1,0,0
+9,GE,GE: General Education,Burton (Phillip and Sala) HS,1.6,637,368,390
+9,MM,MM: SDC - Mild to Moderate,Burton (Phillip and Sala) HS,1.4,14,2,10
+9,MS,MS: SDC - Extensive Services,Burton (Phillip and Sala) HS,0.3,1,1,4
+9,GE,GE: General Education,Wallenberg (Raoul) HS,5.0,904,180,180
+9,MM,MM: SDC - Mild to Moderate,Wallenberg (Raoul) HS,7.0,21,3,3
+12,MM,MM: SDC - Mild to Moderate,Asawa (Ruth) SOTA HS,0.0,0,1,2
+9,MM,MM: SDC - Mild to Moderate,Asawa (Ruth) SOTA HS,3.7,11,3,3
+9,AO,AO: SDC - Auditory/Oral,The Academy - SF @ McAteer HS,0.3,1,1,3
+9,GE,GE: General Education,The Academy - SF @ McAteer HS,5.2,261,50,50
+9,MM,MM: SDC - Mild to Moderate,The Academy - SF @ McAteer HS,1.7,5,1,3
+9,TC,TC: SDC - Total Communication,The Academy - SF @ McAteer HS,0.0,0,1,3
+9,ED,ED: SDC - SOAR,Marshall (Thurgood) HS,-,2,0,0
+9,GE,GE: General Education,Marshall (Thurgood) HS,1.7,199,120,120
+9,MM,MM: SDC - Mild to Moderate,Marshall (Thurgood) HS,1.3,4,2,3
+9,NX,NX: Newcomer Program,Marshall (Thurgood) HS,0.3,34,19,100
+K,GE,GE: General Education,Alamo ES,6.3,428,68,68
+K,SA,SA: SDC - Extensive Services Autism Focus,Alamo ES,-,6,0,0
+K,GE,GE: General Education,Alvarado ES,8.7,393,45,45
+K,MS,MS: SDC - Extensive Services,Alvarado ES,1.3,5,2,4
+K,SE,SE: Spanish Immersion (Non-Native),Alvarado ES,17.2,310,18,18
+K,SN,SN: Spanish Immersion (Spanish Speakers),Alvarado ES,4.6,120,26,26
+K,AF,AF: SDC - Mild/Mod Autism Focus,Argonne ES,5.3,21,4,4
+K,GE,GE: General Education,Argonne ES,7.1,478,67,67
+K,FB,FB: Filipino FLES,Carmichael (Bessie) K-8,1.4,30,17,22
+K,GE,GE: General Education,Carmichael (Bessie) K-8,1.8,84,46,46
+K,GE,GE: General Education,Harte (Bret) ES,1.2,30,25,25
+K,SE,SE: Spanish Immersion (Non-Native),Harte (Bret) ES,4.1,29,7,7
+K,SN,SN: Spanish Immersion (Spanish Speakers),Harte (Bret) ES,0.9,14,8,15
+K,GE,GE: General Education,Bryant ES,2.9,69,24,24
+K,SB,SB: Spanish Biliteracy,Bryant ES,2.3,50,14,22
+K,NC,NC: Chinese Newcomer,Lee (Edwin and Anita) Newcomer ES,-,1,0,0
+K,GE,GE: General Education,Clarendon ES,16.0,704,44,44
+K,JE,JE: Japanese Bilingual Bicultural Program - English Cohort,Clarendon ES,9.7,329,34,34
+K,JN,JN: Japanese Bilingual Bicultural Program - Japanese Cohort,Clarendon ES,1.4,14,10,10
+K,MM,MM: SDC - Mild to Moderate,Clarendon ES,5.0,15,3,3
+K,GE,GE: General Education,Lilienthal (Claire) K-8,8.6,585,68,68
+K,KE,KE: Korean Immersion (Non-Native),Lilienthal (Claire) K-8,11.9,107,9,9
+K,KN,KN: Korean Immersion (Korean Speakers),Lilienthal (Claire) K-8,0.8,10,9,13
+K,GE,GE: General Education,Cleveland ES,2.3,55,24,24
+K,SB,SB: Spanish Biliteracy,Cleveland ES,2.3,50,15,22
+K,CE,CE: Cantonese Immersion (All English),Yu (Alice Fong) K-8,5.7,252,44,44
+K,CT,CT: Cantonese Immersion (All others),Yu (Alice Fong) K-8,12.0,265,22,22
+K,GE,GE: General Education,Sloat (Commodore) ES,6.8,463,67,68
+K,CB,CB: Cantonese Biliteracy,Lau (Gordon J) ES,1.6,104,66,66
+K,GE,GE: General Education,Lau (Gordon J) ES,4.2,188,45,45
+K,GE,GE: General Education,SF Community K-8,4.3,142,33,33
+K,GE,GE: General Education,Webster (Daniel) ES,6.2,149,24,24
+K,SE,SE: Spanish Immersion (Non-Native),Webster (Daniel) ES,5.6,124,22,22
+K,SN,SN: Spanish Immersion (Spanish Speakers),Webster (Daniel) ES,2.6,57,22,22
+K,GE,GE: General Education,Milk (Harvey) Civil Right ES,10.9,261,26,24
+K,GE,GE: General Education,Drew (Dr Charles) College Preparatory Academy ES,1.4,67,47,47
+K,CE,CE: Cantonese Immersion (All English),Chinese Immersion School at DeAvila ES,8.3,223,26,27
+K,CN,CN: Cantonese Immersion (Cantonese Speakers),Chinese Immersion School at DeAvila ES,2.9,114,39,39
+K,AF,AF: SDC - Mild/Mod Autism Focus,Taylor (Edward R) ES,6.0,12,2,2
+K,CB,CB: Cantonese Biliteracy,Taylor (Edward R) ES,1.8,39,22,22
+K,GE,GE: General Education,Taylor (Edward R) ES,2.0,90,44,45
+K,SB,SB: Spanish Biliteracy,Taylor (Edward R) ES,1.3,29,11,22
+K,AF,AF: SDC - Mild/Mod Autism Focus,El Dorado ES,1.0,5,0,5
+K,GE,GE: General Education,El Dorado ES,1.7,41,24,24
+K,GE,GE: General Education,Cobb (Dr William L) ES,4.5,109,24,24
+K,MS,MS: SDC - Extensive Services,Huerta (Dolores) ES,1.3,4,3,3
+K,SE,SE: Spanish Immersion (Non-Native),Huerta (Dolores) ES,7.0,190,27,27
+K,SN,SN: Spanish Immersion (Spanish Speakers),Huerta (Dolores) ES,3.2,119,37,37
+K,GE,GE: General Education,Feinstein (Dianne) ES,5.7,390,69,69
+K,SA,SA: SDC - Extensive Services Autism Focus,Feinstein (Dianne) ES,0.0,0,0,4
+K,GE,GE: General Education,Key (Francis Scott) ES,5.0,439,87,87
+K,MS,MS: SDC - Extensive Services,Key (Francis Scott) ES,0.5,2,0,4
+K,GE,GE: General Education,McCoppin (Frank) ES,9.2,421,46,46
+K,AF,AF: SDC - Mild/Mod Autism Focus,Garfield ES,2.4,12,5,5
+K,CE,CE: Cantonese Immersion (All English),Garfield ES,4.8,53,11,11
+K,CN,CN: Cantonese Immersion (Cantonese Speakers),Garfield ES,2.0,22,7,11
+K,GE,GE: General Education,Garfield ES,3.6,87,24,24
+K,GE,GE: General Education,Peabody (George) ES,13.6,613,45,45
+K,MM,MM: SDC - Mild to Moderate,Peabody (George) ES,4.8,19,4,4
+K,GE,GE: General Education,Glen Park ES,6.5,291,44,45
+K,SA,SA: SDC - Extensive Services Autism Focus,Glen Park ES,2.0,6,2,3
+K,SB,SB: Spanish Biliteracy,Glen Park ES,1.6,35,8,22
+K,GE,GE: General Education,Grattan ES,7.0,477,68,68
+K,SA,SA: SDC - Extensive Services Autism Focus,Grattan ES,1.8,7,4,4
+K,GE,GE: General Education,Guadalupe ES,2.8,68,24,24
+K,SB,SB: Spanish Biliteracy,Guadalupe ES,1.6,36,13,22
+K,GE,GE: General Education,Chavez (Cesar) ES,3.8,90,23,24
+K,SB,SB: Spanish Biliteracy,Chavez (Cesar) ES,1.8,80,28,44
+K,TC,TC: SDC - Total Communication,Chavez (Cesar) ES,0.0,0,1,4
+K,GE,GE: General Education,Hillcrest ES,3.0,72,24,24
+K,MM,MM: SDC - Mild to Moderate,Hillcrest ES,2.3,14,6,6
+K,SB,SB: Spanish Biliteracy,Hillcrest ES,1.8,39,12,22
+K,MM,MM: SDC - Mild to Moderate,Buena Vista Horace Mann K-8,2.0,8,4,4
+K,SE,SE: Spanish Immersion (Non-Native),Buena Vista Horace Mann K-8,4.3,115,27,27
+K,SN,SN: Spanish Immersion (Spanish Speakers),Buena Vista Horace Mann K-8,2.5,97,34,39
+K,GE,GE: General Education,Carver (Dr George W) ES,1.3,32,24,25
+K,CB,CB: Cantonese Biliteracy,Parker (Jean) ES,-,42,0,0
+K,GE,GE: General Education,Parker (Jean) ES,4.3,103,24,24
+K,AF,AF: SDC - Mild/Mod Autism Focus,Jefferson ES,3.2,16,5,5
+K,GE,GE: General Education,Jefferson ES,5.4,470,87,87
+K,GE,GE: General Education,Muir (John) ES,4.4,106,24,24
+K,SB,SB: Spanish Biliteracy,Muir (John) ES,1.1,24,14,22
+K,GE,GE: General Education,Serra (Junipero) ES,4.1,99,24,24
+K,SB,SB: Spanish Biliteracy,Serra (Junipero) ES,1.6,36,14,22
+K,AO,AO: SDC - Auditory/Oral,Lafayette ES,0.0,0,1,4
+K,GE,GE: General Education,Lafayette ES,6.2,420,69,68
+K,AF,AF: SDC - Mild/Mod Autism Focus,Lakeshore ES,3.3,20,6,6
+K,GE,GE: General Education,Lakeshore ES,4.5,308,68,68
+K,GE,GE: General Education,Lawton K-8,11.6,757,65,65
+K,MS,MS: SDC - Extensive Services,Lawton K-8,0.8,3,3,4
+K,GE,GE: General Education,Flynn (Leonard R) ES,5.0,119,24,24
+K,SE,SE: Spanish Immersion (Non-Native),Flynn (Leonard R) ES,6.3,120,19,19
+K,SN,SN: Spanish Immersion (Spanish Speakers),Flynn (Leonard R) ES,3.0,71,19,24
+K,FB,FB: Filipino FLES,Longfellow ES,1.0,21,9,22
+K,GE,GE: General Education,Longfellow ES,3.1,75,24,24
+K,MM,MM: SDC - Mild to Moderate,Longfellow ES,1.2,6,2,5
+K,SB,SB: Spanish Biliteracy,Longfellow ES,1.9,42,19,22
+K,SE,SE: Spanish Immersion (Non-Native),Marshall ES,5.1,76,15,15
+K,SN,SN: Spanish Immersion (Spanish Speakers),Marshall ES,2.0,57,17,28
+K,AF,AF: SDC - Mild/Mod Autism Focus,McKinley ES,5.3,16,3,3
+K,GE,GE: General Education,McKinley ES,7.7,356,46,46
+K,AF,AF: SDC - Mild/Mod Autism Focus,Miraloma ES,1.6,8,4,5
+K,GE,GE: General Education,Miraloma ES,9.0,412,49,46
+K,CB,CB: Cantonese Biliteracy,Moscone (George R) ES,0.8,17,11,22
+K,GE,GE: General Education,Moscone (George R) ES,3.8,90,24,24
+K,SB,SB: Spanish Biliteracy,Moscone (George R) ES,3.2,71,22,22
+K,NS,NS: Spanish Newcomer,Mission Education Center ES,0.4,4,1,11
+K,CB,CB: Cantonese Biliteracy,Monroe ES,2.5,54,22,22
+K,GE,GE: General Education,Monroe ES,6.8,163,24,24
+K,SE,SE: Spanish Immersion (Non-Native),Monroe ES,4.7,84,18,18
+K,SN,SN: Spanish Immersion (Spanish Speakers),Monroe ES,3.2,84,26,26
+K,GE,GE: General Education,New Traditions ES,8.2,377,46,46
+K,GE,GE: General Education,Ortega (Jose) ES,5.2,238,46,46
+K,ME,ME: Mandarin Immersion (Non-Native),Ortega (Jose) ES,19.4,175,9,9
+K,MN,MN: Mandarin Immersion (Mandarin Speakers),Ortega (Jose) ES,8.2,107,13,13
+K,GE,GE: General Education,Sunset ES,10.8,716,66,66
+K,SA,SA: SDC - Extensive Services Autism Focus,Sunset ES,2.0,6,2,3
+K,GE,GE: General Education,Revere (Paul) K-8,1.8,44,24,24
+K,MM,MM: SDC - Mild to Moderate,Revere (Paul) K-8,1.6,8,2,5
+K,SE,SE: Spanish Immersion (Non-Native),Revere (Paul) K-8,4.3,34,8,8
+K,SN,SN: Spanish Immersion (Spanish Speakers),Revere (Paul) K-8,1.8,24,11,13
+K,GE,GE: General Education,Stevenson (Robert Louis) ES,7.4,495,67,67
+K,MM,MM: SDC - Mild to Moderate,Stevenson (Robert Louis) ES,3.5,21,6,6
+K,AF,AF: SDC - Mild/Mod Autism Focus,Parks (Rosa) ES,1.6,8,5,5
+K,GE,GE: General Education,Parks (Rosa) ES,4.1,99,24,24
+K,JE,JE: Japanese Bilingual Bicultural Program - English Cohort,Parks (Rosa) ES,3.1,69,22,22
+K,GE,GE: General Education,Redding ES,1.5,68,45,46
+K,GE,GE: General Education,Rooftop K-8,12.8,588,46,46
+K,GE,GE: General Education,Wo (Yick) ES,4.7,210,45,45
+K,SA,SA: SDC - Extensive Services Autism Focus,Wo (Yick) ES,2.3,7,2,3
+K,GE,GE: General Education,SF Public Montessori ES,10.9,261,24,24
+K,GE,GE: General Education,Sanchez ES,3.5,83,24,24
+K,MM,MM: SDC - Mild to Moderate,Sanchez ES,0.8,3,0,4
+K,SB,SB: Spanish Biliteracy,Sanchez ES,1.7,37,10,22
+K,GE,GE: General Education,Sheridan ES,1.9,86,46,46
+K,AF,AF: SDC - Mild/Mod Autism Focus,Sherman ES,-,18,0,0
+K,GE,GE: General Education,Sherman ES,5.1,236,48,46
+K,GE,GE: General Education,Malcolm X Academy ES,1.0,25,23,25
+K,GE,GE: General Education,Spring Valley Science ES,4.2,100,24,24
+K,MM,MM: SDC - Mild to Moderate,Spring Valley Science ES,1.2,7,6,6
+K,GE,GE: General Education,King (Thomas Starr) ES,2.8,67,24,24
+K,ME,ME: Mandarin Immersion (Non-Native),King (Thomas Starr) ES,4.5,86,19,19
+K,MN,MN: Mandarin Immersion (Mandarin Speakers),King (Thomas Starr) ES,2.6,60,23,23
+K,SA,SA: SDC - Extensive Services Autism Focus,King (Thomas Starr) ES,2.5,5,2,2
+K,GE,GE: General Education,Sunnyside ES,5.5,369,67,67
+K,MS,MS: SDC - Extensive Services,Sunnyside ES,1.0,4,2,4
+K,CB,CB: Cantonese Biliteracy,Sutro ES,2.5,54,19,22
+K,GE,GE: General Education,Sutro ES,13.9,333,24,24
+K,AF,AF: SDC - Mild/Mod Autism Focus,Tenderloin Community ES,0.3,2,3,6
+K,GE,GE: General Education,Tenderloin Community ES,1.4,62,45,45
+K,CB,CB: Cantonese Biliteracy,Ulloa ES,6.9,152,22,22
+K,GE,GE: General Education,Ulloa ES,8.1,552,67,68
+K,CB,CB: Cantonese Biliteracy,Visitacion Valley ES,-,16,0,0
+K,GE,GE: General Education,Visitacion Valley ES,2.3,55,24,24
+K,GE,GE: General Education,Chin (John Yehall) ES,7.0,167,24,24
+K,CE,CE: Cantonese Immersion (All English),West Portal ES,14.5,203,14,14
+K,CN,CN: Cantonese Immersion (Cantonese Speakers),West Portal ES,7.3,139,19,19
+K,GE,GE: General Education,West Portal ES,9.1,621,68,68
+PK,MS,MS: SDC - Extensive Services,El Dorado ES,0.0,0,0,10
+TK,SA,SA: SDC - Extensive Services Autism Focus,Alamo ES,0.0,0,4,4
+TK,GE,GE: General Education,Alvarado ES,15.5,310,20,20
+TK,GE,GE: General Education,Argonne ES,9.3,168,18,18
+TK,GE,GE: General Education,Carmichael (Bessie) K-8,1.4,36,25,25
+TK,GE,GE: General Education,Harte (Bret) ES,0.9,23,26,26
+TK,GE,GE: General Education,Bryant ES,2.0,49,25,25
+TK,GE,GE: General Education,Lau (Gordon J) ES,3.6,89,25,25
+TK,GE,GE: General Education,Drew (Dr Charles) College Preparatory Academy ES,1.3,34,26,26
+TK,CE,CE: Cantonese Immersion (All English),Chinese Immersion School at DeAvila ES,15.8,142,9,9
+TK,CN,CN: Cantonese Immersion (Cantonese Speakers),Chinese Immersion School at DeAvila ES,4.0,56,14,14
+TK,AF,AF: SDC - Mild/Mod Autism Focus,El Dorado ES,0.6,4,4,7
+TK,GE,GE: General Education,El Dorado ES,1.3,34,26,26
+TK,GE,GE: General Education,Cobb (Dr William L) ES,3.4,85,25,25
+TK,MS,MS: SDC - Extensive Services,Huerta (Dolores) ES,3.5,7,2,2
+TK,SE,SE: Spanish Immersion (Non-Native),Huerta (Dolores) ES,15.9,143,9,9
+TK,SN,SN: Spanish Immersion (Spanish Speakers),Huerta (Dolores) ES,2.0,26,13,13
+TK,GE,GE: General Education,Feinstein (Dianne) ES,10.5,262,25,25
+TK,GE,GE: General Education,Key (Francis Scott) ES,10.3,248,24,24
+TK,GE,GE: General Education,McCoppin (Frank) ES,7.2,179,25,25
+TK,GE,GE: General Education,Guadalupe ES,2.0,51,25,25
+TK,GE,GE: General Education,Chavez (Cesar) ES,2.6,65,25,25
+TK,TC,TC: SDC - Total Communication,Chavez (Cesar) ES,0.0,0,0,2
+TK,GE,GE: General Education,Hillcrest ES,2.7,68,25,25
+TK,MM,MM: SDC - Mild to Moderate,Hillcrest ES,0.2,1,0,6
+TK,GE,GE: General Education,Carver (Dr George W) ES,0.6,16,26,26
+TK,GE,GE: General Education,Parker (Jean) ES,2.1,52,25,25
+TK,GE,GE: General Education,Muir (John) ES,2.8,74,26,26
+TK,GE,GE: General Education,Serra (Junipero) ES,4.4,109,25,25
+TK,AO,AO: SDC - Auditory/Oral,Lafayette ES,0.0,0,2,1
+TK,AF,AF: SDC - Mild/Mod Autism Focus,Lakeshore ES,0.0,0,0,6
+TK,GE,GE: General Education,Lakeshore ES,8.2,204,25,25
+TK,GE,GE: General Education,Flynn (Leonard R) ES,4.6,115,25,25
+TK,GE,GE: General Education,Longfellow ES,1.9,48,25,25
+TK,GE,GE: General Education,McKinley ES,7.3,182,25,25
+TK,GE,GE: General Education,Miraloma ES,0.8,19,24,24
+TK,SE,SE: Spanish Immersion (Non-Native),Mission Education Center ES,4.9,68,14,14
+TK,SN,SN: Spanish Immersion (Spanish Speakers),Mission Education Center ES,1.6,16,6,10
+TK,GE,GE: General Education,Ortega (Jose) ES,7.5,179,24,24
+TK,GE,GE: General Education,Stevenson (Robert Louis) ES,12.2,293,24,24
+TK,MM,MM: SDC - Mild to Moderate,Stevenson (Robert Louis) ES,2.7,16,6,6
+TK,AF,AF: SDC - Mild/Mod Autism Focus,Parks (Rosa) ES,2.7,8,3,3
+TK,GE,GE: General Education,Parks (Rosa) ES,2.6,66,25,25
+TK,GE,GE: General Education,Redding ES,1.7,43,25,25
+TK,GE,GE: General Education,Rooftop K-8,12.0,289,24,24
+TK,GE,GE: General Education,Sanchez ES,3.0,76,25,25
+TK,GE,GE: General Education,Sheridan ES,2.5,63,25,25
+TK,GE,GE: General Education,Malcolm X Academy ES,0.6,15,17,26
+TK,GE,GE: General Education,Spring Valley Science ES,2.3,58,25,25
+TK,GE,GE: General Education,King (Thomas Starr) ES,3.6,89,25,25
+TK,GE,GE: General Education,Sutro ES,6.0,150,25,25
+TK,AF,AF: SDC - Mild/Mod Autism Focus,Tenderloin Community ES,3.0,3,1,1
+TK,GE,GE: General Education,Tenderloin Community ES,1.1,28,25,25
+TK,GE,GE: General Education,Visitacion Valley ES,1.4,37,26,26
+TK,GE,GE: General Education,West Portal ES,17.3,416,24,24
+TK,GE,GE: General Education,Argonne EES,6.0,144,24,24
+TK,GE,GE: General Education,Stockton (Commodore) EES,2.3,56,24,24
+TK,GE,GE: General Education,Noriega EES,4.9,227,46,46
+TK,GE,GE: General Education,McLaren (John) EES,1.2,30,25,25
+TK,MM,MM: SDC - Mild to Moderate,McLaren (John) EES,0.9,11,5,12
+TK,GE,GE: General Education,Serra (Junipero) Annex EES,1.4,68,48,48
+TK,GE,GE: General Education,Rodriguez (Zaida T) EES,1.0,49,48,48
+TK,GE,GE: General Education,Tule Elk Park EES,1.8,124,70,70
+TK,MM,MM: SDC - Mild to Moderate,Tule Elk Park EES,1.1,13,7,12
+TK,MS,MS: SDC - Extensive Services,Tule Elk Park EES,0.8,8,6,10
